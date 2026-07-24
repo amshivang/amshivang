@@ -58,5 +58,5 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Today, India is a nuclear weapons state."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"The Object Of The Superior Man Is Truth."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
