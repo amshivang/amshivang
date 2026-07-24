@@ -58,5 +58,5 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Woman Was God'S Second Mistake."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"Today, India is a nuclear weapons state."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
