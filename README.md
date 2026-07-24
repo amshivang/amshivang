@@ -58,5 +58,5 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Happiness In Intelligent People Is The Rarest Thing I Know."</em> — <strong>Ernest Hemingway</strong></p>
+<p align="center"><em>"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
