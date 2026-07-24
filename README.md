@@ -58,5 +58,5 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Object Of The Superior Man Is Truth."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"Happiness In Intelligent People Is The Rarest Thing I Know."</em> — <strong>Ernest Hemingway</strong></p>
 <!-- QUOTE_END -->
