@@ -58,5 +58,5 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Thorough Knowledge Of The Bible Is Worth More Than A College Education."</em> — <strong>Theodore Roosevelt</strong></p>
+<p align="center"><em>"Woman Was God'S Second Mistake."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
