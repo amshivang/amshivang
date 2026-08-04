@@ -1,0 +1,70 @@
+name: Update Hourly Quote
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch and Update Quote
+        run: |
+          python -c "
+          import random, urllib.request, json, re
+
+          quotes = [
+              (\"Talk is cheap. Show me the code.\", \"Linus Torvalds\"),
+              (\"Simplicity is a prerequisite for reliability.\", \"Edsger W. Dijkstra\"),
+              (\"First, solve the problem. Then, write the code.\", \"John Johnson\"),
+              (\"Programs must be written for people to read, and only incidentally for machines to execute.\", \"Harold Abelson\"),
+              (\"The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room.\", \"Gene Spafford\"),
+              (\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\", \"Martin Fowler\"),
+              (\"Fix the cause, not the symptom.\", \"Steve Maguire\"),
+              (\"Security is a process, not a product.\", \"Bruce Schneier\"),
+              (\"There are two ways to write error-free programs; only the third one works.\", \"Alan J. Perlis\"),
+              (\"Make it work, make it right, make it fast.\", \"Kent Beck\")
+          ]
+
+          quote_text, quote_author = random.choice(quotes)
+
+          try:
+              req = urllib.request.Request('https://dummyjson.com/quotes/random', headers={'User-Agent': 'Mozilla/5.0'})
+              with urllib.request.urlopen(req, timeout=5) as response:
+                  data = json.loads(response.read().decode())
+                  if 'quote' in data and 'author' in data:
+                      quote_text = data['quote']
+                      quote_author = data['author']
+          except Exception:
+              pass
+
+          quote_block = f'<!-- QUOTE_START -->\n<p align=\"center\"><em>\"{quote_text}\"</em> — <strong>{quote_author}</strong></p>\n<!-- QUOTE_END -->'
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          pattern = r'<!-- QUOTE_START -->.*?<!-- QUOTE_END -->'
+          new_content = re.sub(pattern, quote_block, content, flags=re.DOTALL)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_content)
+          "
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update hourly programming quote [skip ci]" && git push)
