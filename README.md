@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be."</em> — <strong>Zig Ziglar</strong></p>
+<p align="center"><em>"Patience to faith is like the head to the body. The person who has no patience has not faith."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
