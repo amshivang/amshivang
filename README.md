@@ -58,5 +58,5 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Poverty is the worst form of death."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"As To The Mental Essence, We Find It In Infants Devoid Of Every Mental Form."</em> — <strong>Avicenna</strong></p>
 <!-- QUOTE_END -->
