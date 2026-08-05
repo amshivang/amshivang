@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"As To The Mental Essence, We Find It In Infants Devoid Of Every Mental Form."</em> — <strong>Avicenna</strong></p>
+<p align="center"><em>"The Way You See People Is The Way You Treat Them."</em> — <strong>Zig Ziglar</strong></p>
 <!-- QUOTE_END -->
 
 ---
