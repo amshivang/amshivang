@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amshivang&days=90&theme=radical&bg_color=0D1117&hide_border=true&custom_title=Shivang%27s%20Contribution%20Chart" alt="Shivang's Contribution Chart" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amshivang&days=30&theme=radical&bg_color=0D1117&hide_border=true&custom_title=Shivang%27s%20Contribution%20Chart" alt="Shivang's Contribution Chart" width="98%" />
 </div>
 
 <br>
