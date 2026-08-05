@@ -60,3 +60,12 @@
 <!-- QUOTE_START -->
 <p align="center"><em>"As To The Mental Essence, We Find It In Infants Devoid Of Every Mental Form."</em> — <strong>Avicenna</strong></p>
 <!-- QUOTE_END -->
+
+---
+<div align="center">
+  <a href="https://buymeacoffee.com/amshivang">
+    <img src="https://raw.githubusercontent.com/amshivang/amshivang/main/qr-code.png" alt="Buy Me A Coffee" width="200">
+  </a>
+  <br>
+  <strong><a href="https://buymeacoffee.com/amshivang">Support my work on Buy Me A Coffee! ☕</a></strong>
+</div>
