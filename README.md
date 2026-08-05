@@ -58,5 +58,5 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We need to create brand institutions. In the fortune 500 companies, 5 Indian companies are named while 15 are from China though we have similar kind of populations."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Allah loves moderation and hates extravagance and excess."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
