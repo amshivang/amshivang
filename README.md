@@ -58,5 +58,5 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It."</em> — <strong>David Brinkley</strong></p>
+<p align="center"><em>"Money cannot help lifting its head."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
