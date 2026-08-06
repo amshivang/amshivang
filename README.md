@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Indigestion Is Charged By God With Enforcing Morality On The Stomach."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"Whether You Think That You Can, Or That You Can'T, You Are Usually Right."</em> — <strong>Henry Ford</strong></p>
 <!-- QUOTE_END -->
 
 ---
