@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Patience to faith is like the head to the body. The person who has no patience has not faith."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody."</em> — <strong>Bill Cosby</strong></p>
 <!-- QUOTE_END -->
 
 ---
