@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody."</em> — <strong>Bill Cosby</strong></p>
+<p align="center"><em>"Words Are Only Painted Fire; A Look Is The Fire Itself."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
