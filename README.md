@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Words Are Only Painted Fire; A Look Is The Fire Itself."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Indigestion Is Charged By God With Enforcing Morality On The Stomach."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
