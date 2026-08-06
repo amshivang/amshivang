@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Whether You Think That You Can, Or That You Can'T, You Are Usually Right."</em> — <strong>Henry Ford</strong></p>
+<p align="center"><em>"When A Person Really Desires Something, All The Universe Conspires To Help That Person To Realize His Dream."</em> — <strong>Paulo Coelho</strong></p>
 <!-- QUOTE_END -->
 
 ---
