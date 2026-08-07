@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"One May Sometimes Tell A Lie, But The Grimace That Accompanies It Tells The Truth."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
