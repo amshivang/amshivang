@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be motivated like the falcon, hunt gloriously. Be magnificent as the leopard, fight to win. Spend less time with nightingales and peacocks. One is all talk, the other only color."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"I am not this hair. I am not this skin. I am the soul that lives within."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
