@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We Shall Draw From The Heart Of Suffering Itself The Means Of Inspiration And Survival."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"A man may be as straight as an arrow, but even then he will have some critics."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
