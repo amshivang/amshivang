@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Have An Earnestness For Death And You Will Have Life."</em> — <strong>Abu Bakr</strong></p>
+<p align="center"><em>"This is a subtle truth. Whatever you love, you are."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
