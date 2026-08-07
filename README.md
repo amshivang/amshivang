@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Try To Build A Full Personality For Each Of Our Cartoon Characters - To Make Them Personalities."</em> — <strong>Walt Disney</strong></p>
+<p align="center"><em>"We Shall Draw From The Heart Of Suffering Itself The Means Of Inspiration And Survival."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
