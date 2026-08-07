@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Just Feel Happy To Be In America, Like I Said, It'S The Most Beautiful Country In The World."</em> — <strong>Ahmed Ali</strong></p>
+<p align="center"><em>"Let yourself be silently drawn by the stronger pull of what you really love. In the depths there is a spring with all the water your heart is thirsty for."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
