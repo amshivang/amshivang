@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"This is a subtle truth. Whatever you love, you are."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?'"</em> — <strong>Martin Luther King  Jr.</strong></p>
 <!-- QUOTE_END -->
 
 ---
