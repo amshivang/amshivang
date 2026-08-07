@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child."</em> — <strong>Marie Curie</strong></p>
+<p align="center"><em>"Have An Earnestness For Death And You Will Have Life."</em> — <strong>Abu Bakr</strong></p>
 <!-- QUOTE_END -->
 
 ---
