@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When A Person Really Desires Something, All The Universe Conspires To Help That Person To Realize His Dream."</em> — <strong>Paulo Coelho</strong></p>
+<p align="center"><em>"Be motivated like the falcon, hunt gloriously. Be magnificent as the leopard, fight to win. Spend less time with nightingales and peacocks. One is all talk, the other only color."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
