@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Knowledge is the life of the mind."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
