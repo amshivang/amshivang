@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?'"</em> — <strong>Martin Luther King  Jr.</strong></p>
+<p align="center"><em>"I Try To Build A Full Personality For Each Of Our Cartoon Characters - To Make Them Personalities."</em> — <strong>Walt Disney</strong></p>
 <!-- QUOTE_END -->
 
 ---
