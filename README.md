@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"What regresses, never progresses."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"I Just Feel Happy To Be In America, Like I Said, It'S The Most Beautiful Country In The World."</em> — <strong>Ahmed Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
