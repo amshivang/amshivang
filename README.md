@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Knowledge is the life of the mind."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"There Are Two Sides To Every Issue: One Side Is Right And The Other Is Wrong, But The Middle Is Always Evil."</em> — <strong>Ayn Rand</strong></p>
 <!-- QUOTE_END -->
 
 ---
