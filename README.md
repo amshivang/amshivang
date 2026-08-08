@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing."</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"If Past History Was All There Was To The Game, The Richest People Would Be Librarians."</em> — <strong>Warren Buffett</strong></p>
 <!-- QUOTE_END -->
 
 ---
