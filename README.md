@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If Past History Was All There Was To The Game, The Richest People Would Be Librarians."</em> — <strong>Warren Buffett</strong></p>
+<p align="center"><em>"To be alone means that you avoid bad company. But to have a true friend is better than being alone."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
