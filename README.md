@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Don't be sad! Because God sends hope in the most desperate moments. Don't forget, the heaviest rain comes out of the darkest clouds."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Do Not Be Embarrassed By Your Failures, Learn From Them And Start Again."</em> — <strong>Richard Branson</strong></p>
 <!-- QUOTE_END -->
 
 ---
