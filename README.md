@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Morality Is The Herd-Instinct In The Individual."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"This Is One Small Step For A Man, One Giant Leap For Mankind."</em> — <strong>Neil Armstrong</strong></p>
 <!-- QUOTE_END -->
 
 ---
