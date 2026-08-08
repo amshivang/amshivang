@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The word 'Islam' means 'peace.' The word 'Muslim' means 'one who surrenders to God.' But the press makes us seem like haters."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"There Is No Darkness But Ignorance."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
