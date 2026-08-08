@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering."</em> — <strong>Paulo Coelho</strong></p>
+<p align="center"><em>"Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing."</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
