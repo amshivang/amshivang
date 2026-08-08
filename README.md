@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"This Is One Small Step For A Man, One Giant Leap For Mankind."</em> — <strong>Neil Armstrong</strong></p>
+<p align="center"><em>"I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess."</em> — <strong>Martin Luther</strong></p>
 <!-- QUOTE_END -->
 
 ---
