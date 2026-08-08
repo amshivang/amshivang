@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do Not Be Embarrassed By Your Failures, Learn From Them And Start Again."</em> — <strong>Richard Branson</strong></p>
+<p align="center"><em>"Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering."</em> — <strong>Paulo Coelho</strong></p>
 <!-- QUOTE_END -->
 
 ---
