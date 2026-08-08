@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If We Open A Quarrel Between Past And Present, We Shall Find That We Have Lost The Future."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"The Educated Differ From The Uneducated As Much As The Living From The Dead."</em> — <strong>Aristotle</strong></p>
 <!-- QUOTE_END -->
 
 ---
