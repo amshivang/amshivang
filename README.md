@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb."</em> — <strong>Nelson Mandela</strong></p>
+<p align="center"><em>"Morality Is The Herd-Instinct In The Individual."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
