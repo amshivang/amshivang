@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When you seek advice, do not withhold any facts from the person whose advice you seek."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"Life Loves The Liver Of It."</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
