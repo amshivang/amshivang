@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There are three signs of a knowledgeable person: knowledge, forbearance and silence."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb."</em> — <strong>Nelson Mandela</strong></p>
 <!-- QUOTE_END -->
 
 ---
