@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There is a voice that doesn't use words. Listen."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Wars Of Nations Are Fought To Change Maps. But Wars Of Poverty Are Fought To Map Change."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
