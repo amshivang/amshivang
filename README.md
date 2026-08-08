@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A man may be as straight as an arrow, but even then he will have some critics."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"There is a voice that doesn't use words. Listen."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
