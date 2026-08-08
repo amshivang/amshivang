@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There Is No Darkness But Ignorance."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"If We Open A Quarrel Between Past And Present, We Shall Find That We Have Lost The Future."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
