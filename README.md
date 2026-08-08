@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Educated Differ From The Uneducated As Much As The Living From The Dead."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"I Am The Literary Equivalent Of A Big Mac And Fries."</em> — <strong>Stephen King</strong></p>
 <!-- QUOTE_END -->
 
 ---
