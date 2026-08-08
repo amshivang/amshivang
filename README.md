@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Am The Literary Equivalent Of A Big Mac And Fries."</em> — <strong>Stephen King</strong></p>
+<p align="center"><em>"There are three signs of a knowledgeable person: knowledge, forbearance and silence."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
