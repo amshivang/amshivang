@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Your Most Unhappy Customers Are Your Greatest Source Of Learning."</em> — <strong>Bill Gates</strong></p>
+<p align="center"><em>"I Have A Theory That The Truth Is Never Told During The Nine-To-Five Hours."</em> — <strong>Hunter S. Thompson</strong></p>
 <!-- QUOTE_END -->
 
 ---
