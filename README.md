@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Fanatics Are Picturesque, Mankind Would Rather See Gestures Than Listen To Reasons."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"A Man Wrapped Up In Himself Makes A Very Small Bundle."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
