@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If You Go On With This Nuclear Arms Race, All You Are Going To Do Is Make The Rubble Bounce."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"Greed is permanent slavery."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
