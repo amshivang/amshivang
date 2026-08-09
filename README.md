@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If you lose a big fight, it will worry you all of your life. It will plague you - until you get your revenge."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"He who is not impressed by sound advice, lacks faith."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
