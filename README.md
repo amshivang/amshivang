@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We must think and act like a nation of a billion people and not like that of a million people. Dream, dream, dream!"</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"If You Go On With This Nuclear Arms Race, All You Are Going To Do Is Make The Rubble Bounce."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
