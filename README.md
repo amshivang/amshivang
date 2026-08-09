@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Words, Without Power, Is Mere Philosophy."</em> — <strong>Muhammad Iqbal</strong></p>
+<p align="center"><em>"What you're thinking is what you're becoming."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
