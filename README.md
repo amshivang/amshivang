@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Greed is permanent slavery."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"You are the soul of the soul of the universe, and your name is Love."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
