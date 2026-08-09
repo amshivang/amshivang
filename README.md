@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Best Way To Know God Is To Love Many Things."</em> — <strong>Vincent Van Gogh</strong></p>
+<p align="center"><em>"There is a field beyond all notions of right and wrong. Come, meet me there."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
