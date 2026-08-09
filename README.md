@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There is a field beyond all notions of right and wrong. Come, meet me there."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Your Most Unhappy Customers Are Your Greatest Source Of Learning."</em> — <strong>Bill Gates</strong></p>
 <!-- QUOTE_END -->
 
 ---
