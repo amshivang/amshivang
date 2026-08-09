@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You are the soul of the soul of the universe, and your name is Love."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"If you lose a big fight, it will worry you all of your life. It will plague you - until you get your revenge."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
