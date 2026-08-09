@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Money Is The Barometer Of A Society'S Virtue."</em> — <strong>Ayn Rand</strong></p>
+<p align="center"><em>"Words, Without Power, Is Mere Philosophy."</em> — <strong>Muhammad Iqbal</strong></p>
 <!-- QUOTE_END -->
 
 ---
