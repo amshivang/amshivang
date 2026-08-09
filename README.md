@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Money Is The Barometer Of A Society'S Virtue."</em> — <strong>Ayn Rand</strong></p>
 <!-- QUOTE_END -->
 
 ---
