@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"How could they say that my religion, Islam was a 'race hate' religion after all the plunder and enslavement and domination of my people by white Christians in the name of white supremacy?"</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The Best Way To Know God Is To Love Many Things."</em> — <strong>Vincent Van Gogh</strong></p>
 <!-- QUOTE_END -->
 
 ---
