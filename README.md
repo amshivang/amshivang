@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do for this life as if you live forever, do for the afterlife as if you will die tomorrow."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Sell your cleverness and buy bewilderment. Cleverness is mere opinion. Bewilderment brings intuitive knowledge."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
