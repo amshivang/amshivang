@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Sell your cleverness and buy bewilderment. Cleverness is mere opinion. Bewilderment brings intuitive knowledge."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"One Believes Others Will Do What He Will Do To Himself."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
