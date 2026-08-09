@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"One Believes Others Will Do What He Will Do To Himself."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
