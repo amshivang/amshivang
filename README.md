@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Have A Theory That The Truth Is Never Told During The Nine-To-Five Hours."</em> — <strong>Hunter S. Thompson</strong></p>
+<p align="center"><em>"We must think and act like a nation of a billion people and not like that of a million people. Dream, dream, dream!"</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
