@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There are so many highly esteemed ones who became miserable and humiliated just because of their bad temper and morals; and humble people who have attained eminence and the highest honors because of good temper and morals."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"How could they say that my religion, Islam was a 'race hate' religion after all the plunder and enslavement and domination of my people by white Christians in the name of white supremacy?"</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
