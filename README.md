@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Let Us Not Be Too Particular; It Is Better To Have Old Secondhand Diamonds Than None At All."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"The Only True Wisdom Is In Knowing You Know Nothing."</em> — <strong>Socrates</strong></p>
 <!-- QUOTE_END -->
 
 ---
