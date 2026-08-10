@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
