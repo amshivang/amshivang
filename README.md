@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He who is not impressed by sound advice, lacks faith."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"I Wish They Would Only Take Me As I Am."</em> — <strong>Vincent Van Gogh</strong></p>
 <!-- QUOTE_END -->
 
 ---
