@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To make one good action succeed another, is the perfection of goodness."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Let Us Not Be Too Particular; It Is Better To Have Old Secondhand Diamonds Than None At All."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
