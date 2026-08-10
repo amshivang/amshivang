@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Opportunity Is Missed By Most People Because It Is Dressed In Overalls And Looks Like Work."</em> — <strong>Thomas A. Edison</strong></p>
+<p align="center"><em>"You Don'T Have To See The Whole Staircase, Just Take The First Step."</em> — <strong>Martin Luther King  Jr.</strong></p>
 <!-- QUOTE_END -->
 
 ---
