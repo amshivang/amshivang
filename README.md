@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Don'T Have To See The Whole Staircase, Just Take The First Step."</em> — <strong>Martin Luther King  Jr.</strong></p>
+<p align="center"><em>"Loyalty To The Country Always. Loyalty To The Government When It Deserves It."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
