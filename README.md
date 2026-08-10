@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"One lesson that every nation can learn from China is to focus more on creating village-level enterprises, quality health services and educational facilities."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing."</em> — <strong>Theodore Roosevelt</strong></p>
 <!-- QUOTE_END -->
 
 ---
