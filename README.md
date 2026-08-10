@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Only True Wisdom Is In Knowing You Know Nothing."</em> — <strong>Socrates</strong></p>
+<p align="center"><em>"One lesson that every nation can learn from China is to focus more on creating village-level enterprises, quality health services and educational facilities."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
