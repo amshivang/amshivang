@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Loyalty To The Country Always. Loyalty To The Government When It Deserves It."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"To be a great champion you must believe you are the best. If you're not, pretend you are."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
