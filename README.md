@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Wish They Would Only Take Me As I Am."</em> — <strong>Vincent Van Gogh</strong></p>
+<p align="center"><em>"Opportunity Is Missed By Most People Because It Is Dressed In Overalls And Looks Like Work."</em> — <strong>Thomas A. Edison</strong></p>
 <!-- QUOTE_END -->
 
 ---
