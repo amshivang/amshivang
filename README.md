@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing."</em> — <strong>Theodore Roosevelt</strong></p>
+<p align="center"><em>"Parkinson's is my toughest fight. No, it doesn't hurt. It's hard to explain. I'm being tested to see if I'll keep praying, to see if I'll keep my faith. All great people are tested by God."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
