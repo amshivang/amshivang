@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Parkinson's is my toughest fight. No, it doesn't hurt. It's hard to explain. I'm being tested to see if I'll keep praying, to see if I'll keep my faith. All great people are tested by God."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
