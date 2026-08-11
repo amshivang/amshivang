@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"At home I am a nice guy: but I don't want the world to know. Humble people, I've found, don't get very far."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Hating people because of their color is wrong. And it doesn't matter which color does the hating. It's just plain wrong."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
