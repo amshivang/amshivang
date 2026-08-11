@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"It is better to listen to a wise enemy than to seek counsel from a foolish friend."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"To Say "I Love You" One Must First Be Able To Say The "I.""</em> — <strong>Ayn Rand</strong></p>
 <!-- QUOTE_END -->
 
 ---
