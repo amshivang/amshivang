@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering."</em> — <strong>Paulo Coelho</strong></p>
+<p align="center"><em>"When We Lose One Blessing, Another Is Often Most Unexpectedly Given In Its Place."</em> — <strong>C. S. Lewis</strong></p>
 <!-- QUOTE_END -->
 
 ---
