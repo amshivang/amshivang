@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Cannot Perform In A Manner Inconsistent With The Way You See Yourself."</em> — <strong>Zig Ziglar</strong></p>
+<p align="center"><em>"Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering."</em> — <strong>Paulo Coelho</strong></p>
 <!-- QUOTE_END -->
 
 ---
