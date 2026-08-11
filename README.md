@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Say "I Love You" One Must First Be Able To Say The "I.""</em> — <strong>Ayn Rand</strong></p>
+<p align="center"><em>"Impossible is nothing."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
