@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Impossible is nothing."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Don'T Go Around Saying The World Owes You A Living. The World Owes You Nothing. It Was Here First."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
