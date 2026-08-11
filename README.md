@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Never, Never And Never Again Shall It Be That This Beautiful Land Will Again Experience The Oppression Of One By Another."</em> — <strong>Nelson Mandela</strong></p>
+<p align="center"><em>"He That Is Good For Making Excuses Is Seldom Good For Anything Else."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
