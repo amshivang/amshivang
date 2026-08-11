@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He who does not live in the way of his beliefs starts to believe in the way he lives."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Never, Never And Never Again Shall It Be That This Beautiful Land Will Again Experience The Oppression Of One By Another."</em> — <strong>Nelson Mandela</strong></p>
 <!-- QUOTE_END -->
 
 ---
