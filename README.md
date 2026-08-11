@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He That Is Good For Making Excuses Is Seldom Good For Anything Else."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"Feet, What Do I Need You For When I Have Wings To Fly?"</em> — <strong>Frida Kahlo</strong></p>
 <!-- QUOTE_END -->
 
 ---
