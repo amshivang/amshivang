@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When We Lose One Blessing, Another Is Often Most Unexpectedly Given In Its Place."</em> — <strong>C. S. Lewis</strong></p>
+<p align="center"><em>"It is better to listen to a wise enemy than to seek counsel from a foolish friend."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
