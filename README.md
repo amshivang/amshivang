@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The death of a thousand worshipers is easier to bear than the death of a scholar who has knowledge of what Allah has permitted and forbidden."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"For 2,500 years, India has never invaded anybody."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
