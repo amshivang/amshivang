@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Shine like the whole universe is yours."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Be a lamp, or a lifeboat, or a ladder. Help someone's soul heal. Walk out of your house like a shepherd."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
