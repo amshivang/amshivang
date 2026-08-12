@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"It Does Not Do To Dwell On Dreams And Forget To Live."</em> — <strong>J. K. Rowling</strong></p>
+<p align="center"><em>"Everyone Should Be Respected As An Individual, But No One Idolized."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
