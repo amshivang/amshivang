@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"For 2,500 years, India has never invaded anybody."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Means We Use Must Be As Pure As The Ends We Seek."</em> — <strong>Martin Luther King, Jr.</strong></p>
 <!-- QUOTE_END -->
 
 ---
