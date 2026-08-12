@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Means We Use Must Be As Pure As The Ends We Seek."</em> — <strong>Martin Luther King, Jr.</strong></p>
+<p align="center"><em>"Imagination Is More Important Than Knowledge. Knowledge Is Limited. Imagination Encircles The World."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
