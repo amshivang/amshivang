@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Soul Never Thinks Without A Picture."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"It Does Not Do To Dwell On Dreams And Forget To Live."</em> — <strong>J. K. Rowling</strong></p>
 <!-- QUOTE_END -->
 
 ---
