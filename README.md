@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Float like a butterfly, sting like a bee."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"You show your worth by what you seek."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
