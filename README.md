@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Imagination Is More Important Than Knowledge. Knowledge Is Limited. Imagination Encircles The World."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Like Getting Into A Bleeding Competition With A Blood Bank."</em> — <strong>Richard Branson</strong></p>
 <!-- QUOTE_END -->
 
 ---
