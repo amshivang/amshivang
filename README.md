@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Like Getting Into A Bleeding Competition With A Blood Bank."</em> — <strong>Richard Branson</strong></p>
+<p align="center"><em>"Many Foxes Grow Gray But Few Grow Good."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
