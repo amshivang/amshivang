@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We are the mirror - As well as the face in it."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Float like a butterfly, sting like a bee."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
