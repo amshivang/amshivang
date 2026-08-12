@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Most Folks Are As Happy As They Make Up Their Minds To Be."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Shine like the whole universe is yours."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
