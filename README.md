@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Whatever Your Heart Clings To And Confides In, That Is Really Your God."</em> — <strong>Martin Luther</strong></p>
+<p align="center"><em>"Heart be brave. If you cannot be brave, just go. Love's glory is not a small thing."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
