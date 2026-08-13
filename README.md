@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you?"</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"When setting out on a journey do not seek advice from someone who never left home."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
