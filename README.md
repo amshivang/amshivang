@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"You cannot change your future, but you can change your habits, and surely your habits will change your future."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
