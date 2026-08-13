@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I looked for God. I went to a temple and I didn't find him there. Then I went to a church and I didn't find him there. The I went to a mosque and I didn't find him there. Then finally I looked in my heart and there he was."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth."</em> — <strong>Ayn Rand</strong></p>
 <!-- QUOTE_END -->
 
 ---
