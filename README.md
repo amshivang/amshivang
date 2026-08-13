@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth."</em> — <strong>Ayn Rand</strong></p>
+<p align="center"><em>"There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you?"</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
