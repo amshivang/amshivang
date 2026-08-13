@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When setting out on a journey do not seek advice from someone who never left home."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"I will be patient till even patience tires of my patience."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
