@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Think Of Shadows Is A Serious Thing."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"To Be Happy We Must Not Be Too Concerned With Others."</em> — <strong>Albert Camus</strong></p>
 <!-- QUOTE_END -->
 
 ---
