@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Does Wisdom Perhaps Appear On The Earth As A Raven Which Is Inspired By The Smell Of Carrion?"</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"No pork, soda pop, cigarettes, alcohol - ever!"</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
