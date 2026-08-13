@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Heart be brave. If you cannot be brave, just go. Love's glory is not a small thing."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"You Cannot Create Experience. You Must Undergo It."</em> — <strong>Albert Camus</strong></p>
 <!-- QUOTE_END -->
 
 ---
