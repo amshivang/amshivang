@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Keep silent, because the world of silence is a vast fullness."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Does Wisdom Perhaps Appear On The Earth As A Raven Which Is Inspired By The Smell Of Carrion?"</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
