@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Teaching is a very noble profession that shapes the character, caliber, and future of an individual. If the people remember me as a good teacher, that will be the biggest honour for me."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"To Think Of Shadows Is A Serious Thing."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
