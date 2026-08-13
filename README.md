@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I will be patient till even patience tires of my patience."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Whatever Your Heart Clings To And Confides In, That Is Really Your God."</em> — <strong>Martin Luther</strong></p>
 <!-- QUOTE_END -->
 
 ---
