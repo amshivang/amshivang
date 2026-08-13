@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"No pork, soda pop, cigarettes, alcohol - ever!"</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I looked for God. I went to a temple and I didn't find him there. Then I went to a church and I didn't find him there. The I went to a mosque and I didn't find him there. Then finally I looked in my heart and there he was."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
