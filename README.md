@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You cannot change your future, but you can change your habits, and surely your habits will change your future."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Keep silent, because the world of silence is a vast fullness."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
