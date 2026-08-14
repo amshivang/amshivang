@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"My Dream Is Of A Place And A Time Where America Will Once Again Be Seen As The Last Best Hope Of Earth."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be."</em> — <strong>Zig Ziglar</strong></p>
 <!-- QUOTE_END -->
 
 ---
