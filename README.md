@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed."</em> — <strong>Ali Ibn Abi Talib</strong></p>
+<p align="center"><em>"If This Is Coffee, Please Bring Me Some Tea; But If This Is Tea, Please Bring Me Some Coffee."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
