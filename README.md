@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Patience to faith is like the head to the body. The person who has no patience has not faith."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed."</em> — <strong>Ali Ibn Abi Talib</strong></p>
 <!-- QUOTE_END -->
 
 ---
