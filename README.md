@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Be Happy We Must Not Be Too Concerned With Others."</em> — <strong>Albert Camus</strong></p>
+<p align="center"><em>"It'S Not What You'Ve Got, It'S What You Use That Makes A Difference."</em> — <strong>Zig Ziglar</strong></p>
 <!-- QUOTE_END -->
 
 ---
