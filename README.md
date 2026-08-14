@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The wiser a man is, the less talkative will he be."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"I Hated Every Minute Of Training, But I Said, 'Don'T Quit. Suffer Now And Live The Rest Of Your Life As A Champion.'"</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
