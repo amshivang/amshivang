@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Sleep Is The Best Meditation."</em> — <strong>Dalai Lama</strong></p>
+<p align="center"><em>"Dream, Dream Dream Dreams transform into thoughts And thoughts result in action."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
