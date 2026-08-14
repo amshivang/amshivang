@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Give Victory To The Right, Not Bloody Bullets, But Peaceful Ballots Only, Are Necessary."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Patience to faith is like the head to the body. The person who has no patience has not faith."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
