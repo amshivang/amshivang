@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be."</em> — <strong>Zig Ziglar</strong></p>
+<p align="center"><em>"To Give Victory To The Right, Not Bloody Bullets, But Peaceful Ballots Only, Are Necessary."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
