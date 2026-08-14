@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Hated Every Minute Of Training, But I Said, 'Don'T Quit. Suffer Now And Live The Rest Of Your Life As A Champion.'"</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I Myself Prefer My New Zealand Eggs For Breakfast."</em> — <strong>Elizabeth II</strong></p>
 <!-- QUOTE_END -->
 
 ---
