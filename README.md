@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I'M Not Even Kind Of A Lesbian."</em> — <strong>Oprah Winfrey</strong></p>
+<p align="center"><em>"The wiser a man is, the less talkative will he be."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
