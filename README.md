@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If This Is Coffee, Please Bring Me Some Tea; But If This Is Tea, Please Bring Me Some Coffee."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Sleep Is The Best Meditation."</em> — <strong>Dalai Lama</strong></p>
 <!-- QUOTE_END -->
 
 ---
