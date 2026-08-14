@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Myself Prefer My New Zealand Eggs For Breakfast."</em> — <strong>Elizabeth II</strong></p>
+<p align="center"><em>"Do not be too hard, lest you be broken; do not be too soft, lest you be squeezed."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
