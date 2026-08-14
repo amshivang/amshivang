@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Dream, Dream Dream Dreams transform into thoughts And thoughts result in action."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"If you are irritated by every rub, how will your mirror be polished?"</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
