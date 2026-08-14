@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"It'S Not What You'Ve Got, It'S What You Use That Makes A Difference."</em> — <strong>Zig Ziglar</strong></p>
+<p align="center"><em>"My place is placeless, a trace of the traceless."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
