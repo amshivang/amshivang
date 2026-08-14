@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If you are irritated by every rub, how will your mirror be polished?"</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"I'M Not Even Kind Of A Lesbian."</em> — <strong>Oprah Winfrey</strong></p>
 <!-- QUOTE_END -->
 
 ---
