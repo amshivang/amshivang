@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Champions come and go, but to be legendary you got to have heart, more heart than the next man, more than anyone in the world."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"If You Judge People, You Have No Time To Love Them."</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
