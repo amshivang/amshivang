@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If You Judge People, You Have No Time To Love Them."</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"God gave me Parkinson's syndrome to show me I'm not 'The Greatest' - he is."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
