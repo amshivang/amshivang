@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Convergence of our views on global trade issues under the WTO and our common resolve to combat terrorism provide a valuable base for mutual understanding."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Uneasy Lies The Head That Wears A Crown."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
