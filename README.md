@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"At night, I open the window and ask the moon to come and press its face against mine. Breathe into me. Close the language-door and open the love-window. The moon won't use the door, only the window."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
