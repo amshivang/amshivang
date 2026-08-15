@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Denial Ain'T Just A River In Egypt."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Dogs Never Bite Me. Just Humans."</em> — <strong>Marilyn Monroe</strong></p>
 <!-- QUOTE_END -->
 
 ---
