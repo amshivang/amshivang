@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Are Responsible For Your Life. You Can'T Keep Blaming Somebody Else For Your Dysfunction. Life Is Really About Moving On."</em> — <strong>Oprah Winfrey</strong></p>
+<p align="center"><em>"Do not take someone's silence as his pride, perhaps he is busy fighting with his self."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
