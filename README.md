@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Uneasy Lies The Head That Wears A Crown."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"Play The Game For More Than You Can Afford To Lose... Only Then Will You Learn The Game."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
