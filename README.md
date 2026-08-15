@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The word 'Islam' means 'peace.' The word 'Muslim' means 'one who surrenders to God.' But the press makes us seem like haters."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"At night, I open the window and ask the moon to come and press its face against mine. Breathe into me. Close the language-door and open the love-window. The moon won't use the door, only the window."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
