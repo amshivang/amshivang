@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do You Think God Gets Stoned? I Think So... Look At The Platypus."</em> — <strong>Robin Williams</strong></p>
+<p align="center"><em>"Our greatest strength lies in the gentleness and tenderness of our heart."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
