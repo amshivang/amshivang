@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Sell your cleverness and buy bewilderment."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Do You Think God Gets Stoned? I Think So... Look At The Platypus."</em> — <strong>Robin Williams</strong></p>
 <!-- QUOTE_END -->
 
 ---
