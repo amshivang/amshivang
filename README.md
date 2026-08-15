@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do not take someone's silence as his pride, perhaps he is busy fighting with his self."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Denial Ain'T Just A River In Egypt."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
