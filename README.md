@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Dogs Never Bite Me. Just Humans."</em> — <strong>Marilyn Monroe</strong></p>
+<p align="center"><em>"Learn the Arabic language; it will sharpen your wisdom."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
