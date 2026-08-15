@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Price Of Greatness Is Responsibility."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"Keep silent, because the world of silence is a vast fullness."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
