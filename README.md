@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do not be too hard, lest you be broken; do not be too soft, lest you be squeezed."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"The Price Of Greatness Is Responsibility."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
