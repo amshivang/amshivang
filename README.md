@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"God gave me Parkinson's syndrome to show me I'm not 'The Greatest' - he is."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Sell your cleverness and buy bewilderment."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
