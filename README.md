@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I was the first one in the gym, and the last one to leave."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Never Do Anything Against Conscience Even If The State Demands It."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
