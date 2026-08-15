@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Play The Game For More Than You Can Afford To Lose... Only Then Will You Learn The Game."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"The outcome of fear is disappointment and shyness is frustration."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
