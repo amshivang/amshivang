@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Spirituality is recognizing the divine light that is within us all. It doesn't belong to any particular religion; it belongs to everyone."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Islam will be destroyed by the mistakes of scholars, the arguments of the hypocrites who misinterpret the Qur'an to support their views and misleading rulers."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
