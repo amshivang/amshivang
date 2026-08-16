@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I'll destroy you. I am the master of disaster."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Our only hope lies in the power of our love, generosity, tolerance and understanding and our commitment to making the world a better place for all..."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
