@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Experience Does Not Err. Only Your Judgments Err By Expecting From Her What Is Not In Her Power."</em> — <strong>Leonardo Da Vinci</strong></p>
+<p align="center"><em>"The Difference Between A Mountain And A Molehill Is Your Perspective."</em> — <strong>Al Neuharth</strong></p>
 <!-- QUOTE_END -->
 
 ---
