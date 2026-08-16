@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering."</em> — <strong>Paulo Coelho</strong></p>
+<p align="center"><em>"You are not just the drop in the ocean. You are the mighty ocean in the drop."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
