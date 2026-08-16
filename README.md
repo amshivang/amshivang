@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Everyone who is taken by death asks for more time, while everyone who still has time makes excuses for procrastination."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
