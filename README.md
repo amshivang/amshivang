@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Difference Between A Mountain And A Molehill Is Your Perspective."</em> — <strong>Al Neuharth</strong></p>
+<p align="center"><em>"Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered."</em> — <strong>Aristotle</strong></p>
 <!-- QUOTE_END -->
 
 ---
