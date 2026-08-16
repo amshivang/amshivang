@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Islam will be destroyed by the mistakes of scholars, the arguments of the hypocrites who misinterpret the Qur'an to support their views and misleading rulers."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Give up to grace. The ocean takes care of each wave 'til it gets to shore. You need more help than you know."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
