@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Have A Theory That The Truth Is Never Told During The Nine-To-Five Hours."</em> — <strong>Hunter S. Thompson</strong></p>
+<p align="center"><em>"When wisdom reaches the acme of perfection, it will suppress the vicious instincts and injurious desires."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
