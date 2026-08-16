@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"People Do Not Lack Strength; They Lack Will."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
