@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others."</em> — <strong>John F. Kennedy</strong></p>
 <!-- QUOTE_END -->
 
 ---
