@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Brooding over blunders is the biggest blunder."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I Have A Theory That The Truth Is Never Told During The Nine-To-Five Hours."</em> — <strong>Hunter S. Thompson</strong></p>
 <!-- QUOTE_END -->
 
 ---
