@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Our only hope lies in the power of our love, generosity, tolerance and understanding and our commitment to making the world a better place for all..."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Spirituality is recognizing the divine light that is within us all. It doesn't belong to any particular religion; it belongs to everyone."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
