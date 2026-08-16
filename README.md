@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"People Do Not Lack Strength; They Lack Will."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
