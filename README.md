@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Knowledge is the life of the mind."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"Everyone who is taken by death asks for more time, while everyone who still has time makes excuses for procrastination."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
