@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You are not just the drop in the ocean. You are the mighty ocean in the drop."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Fear him, whom you hate."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
