@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"I'll destroy you. I am the master of disaster."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
