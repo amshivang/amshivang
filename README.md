@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Hold yourselves accountable before you are held accountable."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer."</em> — <strong>Bruce Lee</strong></p>
 <!-- QUOTE_END -->
 
 ---
