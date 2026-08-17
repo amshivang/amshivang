@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer."</em> — <strong>Bruce Lee</strong></p>
+<p align="center"><em>"We Must Believe That We Are Gifted For Something, And That This Thing, At Whatever Cost, Must Be Attained."</em> — <strong>Marie Curie</strong></p>
 <!-- QUOTE_END -->
 
 ---
