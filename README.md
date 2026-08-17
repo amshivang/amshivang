@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"It will be a killer, and a chiller, and a thriller, when I get the gorilla in Manila."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
