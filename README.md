@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We Must Believe That We Are Gifted For Something, And That This Thing, At Whatever Cost, Must Be Attained."</em> — <strong>Marie Curie</strong></p>
+<p align="center"><em>"The Most Beautiful Thing We Can Experience Is The Mysterious. It Is The Source Of All True Art And Science."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
