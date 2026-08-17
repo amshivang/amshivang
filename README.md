@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"That'S The Real Trouble With The World, Too Many People Grow Up"</em> — <strong>Walt Disney</strong></p>
+<p align="center"><em>"It will be a killer, and a chiller, and a thriller, when I get the gorilla in Manila."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
