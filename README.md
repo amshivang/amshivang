@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He Who Laughs Best Today, Will Also Laughs Last."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"Strength Does Not Come From Physical Capacity. It Comes From An Indomitable Will."</em> — <strong>Mahatma Gandhi</strong></p>
 <!-- QUOTE_END -->
 
 ---
