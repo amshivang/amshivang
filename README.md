@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Strength Does Not Come From Physical Capacity. It Comes From An Indomitable Will."</em> — <strong>Mahatma Gandhi</strong></p>
+<p align="center"><em>"Security is a process, not a product."</em> — <strong>Bruce Schneier</strong></p>
 <!-- QUOTE_END -->
 
 ---
