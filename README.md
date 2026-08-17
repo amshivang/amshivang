@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"One best book is equal to hundred good friends but one good friend is equal to a library."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"He Who Laughs Best Today, Will Also Laughs Last."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
