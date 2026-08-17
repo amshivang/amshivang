@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"If You Have A Particular Faith Or Religion, That Is Good. But You Can Survive Without It."</em> — <strong>Dalai Lama</strong></p>
 <!-- QUOTE_END -->
 
 ---
