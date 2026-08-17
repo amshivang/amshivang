@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If You Have A Particular Faith Or Religion, That Is Good. But You Can Survive Without It."</em> — <strong>Dalai Lama</strong></p>
+<p align="center"><em>"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
