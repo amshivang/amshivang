@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I'm pretty as a girl."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Take account of your deeds before they are taken account of."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
