@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"To the people that have said I'm too small, I'm not fast enough, I don't have what it takes, I'm not strong enough. THANK YOU."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
