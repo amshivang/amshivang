@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Can Be Changed By What Happens To Me. But I Refuse To Be Reduced By It."</em> — <strong>Maya Angelou</strong></p>
+<p align="center"><em>"One best book is equal to hundred good friends but one good friend is equal to a library."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
