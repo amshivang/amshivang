@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Security is a process, not a product."</em> — <strong>Bruce Schneier</strong></p>
+<p align="center"><em>"A man may be as straight as an arrow, but even then he will have some critics."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
