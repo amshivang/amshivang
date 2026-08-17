@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Most Beautiful Thing We Can Experience Is The Mysterious. It Is The Source Of All True Art And Science."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"That'S The Real Trouble With The World, Too Many People Grow Up"</em> — <strong>Walt Disney</strong></p>
 <!-- QUOTE_END -->
 
 ---
