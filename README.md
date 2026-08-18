@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Developing nations want to become developed nations."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
