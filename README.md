@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"God forbid, men should be jealous of knowledge as they are jealous of women."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Do The Right Thing. It Will Gratify Some People And Astonish The Rest."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
