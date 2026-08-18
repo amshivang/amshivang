@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"In a competition of love we'll all share in the victory, no matter who comes first."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Achieving Life Is Not The Equivalent Of Avoiding Death."</em> — <strong>Ayn Rand</strong></p>
 <!-- QUOTE_END -->
 
 ---
