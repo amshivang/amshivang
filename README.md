@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If You Have A Particular Faith Or Religion, That Is Good. But You Can Survive Without It."</em> — <strong>Dalai Lama</strong></p>
+<p align="center"><em>"No pork, soda pop, cigarettes, alcohol - ever!"</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
