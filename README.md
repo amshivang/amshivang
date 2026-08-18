@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Our Greatest Fear Should Not Be Of Failure But Of Succeeding At Things In Life That Don'T Really Matter."</em> — <strong>Francis Chan</strong></p>
+<p align="center"><em>"Yesterday Is Gone. Tomorrow Has Not Yet Come. We Have Only Today. Let Us Begin."</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
