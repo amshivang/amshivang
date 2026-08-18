@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Brooding over blunders is the biggest blunder."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Get up sucker and fight. Get up and fight."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
