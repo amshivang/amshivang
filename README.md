@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Will Prepare And Some Day My Chance Will Come."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"My Books Are Like Water; Those Of The Great Geniuses Are Wine. (Fortunately) Everybody Drinks Water."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
