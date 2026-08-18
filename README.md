@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Achieving Life Is Not The Equivalent Of Avoiding Death."</em> — <strong>Ayn Rand</strong></p>
+<p align="center"><em>"If You Have A Particular Faith Or Religion, That Is Good. But You Can Survive Without It."</em> — <strong>Dalai Lama</strong></p>
 <!-- QUOTE_END -->
 
 ---
