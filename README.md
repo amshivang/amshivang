@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"No pork, soda pop, cigarettes, alcohol - ever!"</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I learned that every mortal will taste death. But only some will taste life."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
