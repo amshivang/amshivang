@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"My Books Are Like Water; Those Of The Great Geniuses Are Wine. (Fortunately) Everybody Drinks Water."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Developing nations want to become developed nations."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
