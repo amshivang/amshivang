@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
