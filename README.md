@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Champions have to have the skill and the will. But the will must be stronger than the skill."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The one from among the Muslims who recites the Qur'an but in the end finds his way to hell, is considered to be among those that have taken the word of Allah in jest."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
