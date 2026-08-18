@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Can Tell Whether A Man Is Clever By His Answers. You Can Tell Whether A Man Is Wise By His Questions."</em> — <strong>Naguib Mahfouz</strong></p>
+<p align="center"><em>"In a competition of love we'll all share in the victory, no matter who comes first."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
