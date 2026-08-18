@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Yesterday Is Gone. Tomorrow Has Not Yet Come. We Have Only Today. Let Us Begin."</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"You Can Tell Whether A Man Is Clever By His Answers. You Can Tell Whether A Man Is Wise By His Questions."</em> — <strong>Naguib Mahfouz</strong></p>
 <!-- QUOTE_END -->
 
 ---
