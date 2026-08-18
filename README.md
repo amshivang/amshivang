@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I'm young, I'm handsome, I'm fast, I'm pretty, and can't possibly be beat. They must fall in the round I call."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The Best Way To Know God Is To Love Many Things."</em> — <strong>Vincent Van Gogh</strong></p>
 <!-- QUOTE_END -->
 
 ---
