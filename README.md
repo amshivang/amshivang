@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Our Greatest Fear Should Not Be Of Failure But Of Succeeding At Things In Life That Don'T Really Matter."</em> — <strong>Francis Chan</strong></p>
 <!-- QUOTE_END -->
 
 ---
