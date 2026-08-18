@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Convergence of our views on global trade issues under the WTO and our common resolve to combat terrorism provide a valuable base for mutual understanding."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
