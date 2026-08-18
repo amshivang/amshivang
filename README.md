@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Best Way To Know God Is To Love Many Things."</em> — <strong>Vincent Van Gogh</strong></p>
+<p align="center"><em>"Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
