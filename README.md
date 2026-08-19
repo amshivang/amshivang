@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"In All Things Of Nature There Is Something Of The Marvelous."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"Lord, Lord, How Subject We Old Men Are To This Vice Of Lying!"</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
