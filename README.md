@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"It's not bragging if you can back it up."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
