@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Whoever knocks persistently, ends by entering."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The People Themselves, And Not Their Servants, Can Safely Reverse Their Own Deliberate Decisions."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
