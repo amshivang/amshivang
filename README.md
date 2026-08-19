@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Lord, Lord, How Subject We Old Men Are To This Vice Of Lying!"</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"One Does Not Leave A Convivial Party Before Closing Time."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
