@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If You Go On With This Nuclear Arms Race, All You Are Going To Do Is Make The Rubble Bounce."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"Stay in college, get the knowledge. And stay there until you're through. If they can make penicillin out of moldy bread, they can sure make something out of you. Advice to a young person to continue his education."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
