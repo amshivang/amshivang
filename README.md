@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Give Victory To The Right, Not Bloody Bullets, But Peaceful Ballots Only, Are Necessary."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"A wise man first thinks and then speaks and a fool speaks first and then thinks."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
