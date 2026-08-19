@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"In the big leagues everyone has ability. It always comes down to mind games. Who ever is more mentally strong-wins."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"To Give Victory To The Right, Not Bloody Bullets, But Peaceful Ballots Only, Are Necessary."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
