@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Stay in college, get the knowledge. And stay there until you're through. If they can make penicillin out of moldy bread, they can sure make something out of you. Advice to a young person to continue his education."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Maybe a thing that you do not like is really in your interest. It is possible that a thing that you may desire may be against your interest."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
