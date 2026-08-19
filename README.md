@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Maybe a thing that you do not like is really in your interest. It is possible that a thing that you may desire may be against your interest."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"In the big leagues everyone has ability. It always comes down to mind games. Who ever is more mentally strong-wins."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
