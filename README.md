@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"How many lessons there are and how little they are taken."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"God gave me Parkinson's syndrome to show me I'm not 'The Greatest' - he is."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
