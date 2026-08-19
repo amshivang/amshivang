@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not."</em> — <strong>C. S. Lewis</strong></p>
+<p align="center"><em>"Whoever knocks persistently, ends by entering."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
