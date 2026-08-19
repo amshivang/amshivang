@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A wise man first thinks and then speaks and a fool speaks first and then thinks."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Get Your Facts First, Then You Can Distort Them As You Please."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
