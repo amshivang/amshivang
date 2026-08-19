@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Everyone Seems To Have A Clear Idea Of How Other People Should Lead Their Lives, But None About His Or Her Own."</em> — <strong>Paulo Coelho</strong></p>
+<p align="center"><em>"Be Careless In Your Dress If You Will, But Keep A Tidy Soul."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
