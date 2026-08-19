@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Get up sucker and fight. Get up and fight."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"If You Go On With This Nuclear Arms Race, All You Are Going To Do Is Make The Rubble Bounce."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
