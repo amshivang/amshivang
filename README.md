@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Get Your Facts First, Then You Can Distort Them As You Please."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"How many lessons there are and how little they are taken."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
