@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be Careless In Your Dress If You Will, But Keep A Tidy Soul."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Love Begins By Taking Care Of The Closest Ones - The Ones At Home."</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
