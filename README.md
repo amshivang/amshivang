@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Every Day, Nay Every Moment, Try To Do Some Good Deed."</em> — <strong>Abu Bakr</strong></p>
+<p align="center"><em>"The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not."</em> — <strong>C. S. Lewis</strong></p>
 <!-- QUOTE_END -->
 
 ---
