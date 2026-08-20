@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Failure Is A Detour, Not A Dead-End Street."</em> — <strong>Zig Ziglar</strong></p>
+<p align="center"><em>"Love Is Blind; Friendship Closes Its Eyes."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
