@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Do Not Need The Idea Of God To Explain The World I Live In."</em> — <strong>Salman Rushdie</strong></p>
+<p align="center"><em>"I Like To Listen. I Have Learned A Great Deal From Listening Carefully. Most People Never Listen."</em> — <strong>Ernest Hemingway</strong></p>
 <!-- QUOTE_END -->
 
 ---
