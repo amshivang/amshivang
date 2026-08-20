@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"Live amongst people in such a manner that if you die they weep over you and if you are alive they crave for your company."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
