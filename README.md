@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Beware Of Little Expenses. A Small Leak Will Sink A Great Ship."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"I Wish To Preach, Not The Doctrine Of Ignoble Ease, But The Doctrine Of The Strenuous Life."</em> — <strong>Theodore Roosevelt</strong></p>
 <!-- QUOTE_END -->
 
 ---
