@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Feet, What Do I Need You For When I Have Wings To Fly?"</em> — <strong>Frida Kahlo</strong></p>
+<p align="center"><em>"Use the same measure for selling that you use for purchasing."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
