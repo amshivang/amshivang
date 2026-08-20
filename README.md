@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Wish To Preach, Not The Doctrine Of Ignoble Ease, But The Doctrine Of The Strenuous Life."</em> — <strong>Theodore Roosevelt</strong></p>
+<p align="center"><em>"Failure Is A Detour, Not A Dead-End Street."</em> — <strong>Zig Ziglar</strong></p>
 <!-- QUOTE_END -->
 
 ---
