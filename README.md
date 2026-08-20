@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Love Begins By Taking Care Of The Closest Ones - The Ones At Home."</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"I Do Not Need The Idea Of God To Explain The World I Live In."</em> — <strong>Salman Rushdie</strong></p>
 <!-- QUOTE_END -->
 
 ---
