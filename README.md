@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Live amongst people in such a manner that if you die they weep over you and if you are alive they crave for your company."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Once the seed of faith takes root, it cannot be blown away, even by the strongest wind - Now that's a blessing."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
