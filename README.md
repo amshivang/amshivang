@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Use the same measure for selling that you use for purchasing."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"I Can Be Changed By What Happens To Me. But I Refuse To Be Reduced By It."</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
