@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Can Be Changed By What Happens To Me. But I Refuse To Be Reduced By It."</em> — <strong>Maya Angelou</strong></p>
+<p align="center"><em>"Do not be like those on whom advice has no effect and who require punishment to correct themselves."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
