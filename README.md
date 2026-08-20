@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass."</em> — <strong>Muhammad Iqbal</strong></p>
+<p align="center"><em>"Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."</em> — <strong>Aristotle</strong></p>
 <!-- QUOTE_END -->
 
 ---
