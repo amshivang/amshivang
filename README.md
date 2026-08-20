@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Once the seed of faith takes root, it cannot be blown away, even by the strongest wind - Now that's a blessing."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Adversity always presents opportunities for introspection."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
