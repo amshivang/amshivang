@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Like To Listen. I Have Learned A Great Deal From Listening Carefully. Most People Never Listen."</em> — <strong>Ernest Hemingway</strong></p>
+<p align="center"><em>"Feet, What Do I Need You For When I Have Wings To Fly?"</em> — <strong>Frida Kahlo</strong></p>
 <!-- QUOTE_END -->
 
 ---
