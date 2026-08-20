@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Adversity always presents opportunities for introspection."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"What you're thinking is what you're becoming."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
