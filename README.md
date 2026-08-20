@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"English is necessary as at present original works of science are in English. I believe that in two decades times original works of science will start coming out in our languages. Then we can move over like the Japanese."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass."</em> — <strong>Muhammad Iqbal</strong></p>
 <!-- QUOTE_END -->
 
 ---
