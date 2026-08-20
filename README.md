@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Let us sacrifice our today so that our children can have a better tomorrow."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"My Mission In Life Is Not Merely To Survive, But To Thrive; And To Do So With Some Passion, Some Compassion, Some Humor, And Some Style"</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
