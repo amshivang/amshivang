@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I don't count my sit-ups. I only start counting when it starts hurting. When I feel pain, that's when I start counting, because that's when it really counts."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Beware Of Little Expenses. A Small Leak Will Sink A Great Ship."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
