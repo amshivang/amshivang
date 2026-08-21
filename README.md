@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Two Great European Narcotics, Alcohol And Christianity."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"You have to keep breaking your heart until it opens."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
