@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Find Hope In The Darkest Of Days, And Focus In The Brightest. I Do Not Judge The Universe."</em> — <strong>Dalai Lama</strong></p>
+<p align="center"><em>"Two Great European Narcotics, Alcohol And Christianity."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
