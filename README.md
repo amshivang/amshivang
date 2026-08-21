@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Am The Greatest, I Said That Even Before I Knew I Was."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Not the ones speaking the same language, but the ones sharing the same feeling understand each other."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
