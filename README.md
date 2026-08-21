@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Love Is Blind; Friendship Closes Its Eyes."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"You show your worth by what you seek."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
