@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"No Part Of The Education Of A Politician Is More Indispensable Than The Fighting Of Elections."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away."</em> — <strong>Ellen DeGeneres</strong></p>
 <!-- QUOTE_END -->
 
 ---
