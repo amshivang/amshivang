@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I say get an education. Become an electrician, a mechanic, a doctor, a lawyer, anything but a fighter. In this trade, it's the managers that make the money and last the longest."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The Public Is Merely A Multiplied "Me.""</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
