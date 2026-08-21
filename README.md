@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"God Does Not Play Dice."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Open your Eyes, for this World is only a Dream."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
