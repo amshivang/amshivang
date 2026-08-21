@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I'm going to show you how great I am!"</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The So-Called Peace Path Is Not Peace And It Is Not A Substitute For Jihad And Resistance."</em> — <strong>Ahmed Yassin</strong></p>
 <!-- QUOTE_END -->
 
 ---
