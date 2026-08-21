@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Truly great people in history never wanted to be great for themselves. All they wanted was the chance to do good for others and be close to God."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"God Does Not Play Dice."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
