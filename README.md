@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away."</em> — <strong>Ellen DeGeneres</strong></p>
+<p align="center"><em>"If you want to shine like the sun, first burn like the sun."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
