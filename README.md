@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Life is a gamble. You can get hurt, but people die in plane crashes, lose their arms and legs in car accidents; people die every day. Same with fighters: some die, some get hurt, some go on. You just don't let yourself believe it will happen to you."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"No Part Of The Education Of A Politician Is More Indispensable Than The Fighting Of Elections."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
