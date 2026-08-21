@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If you are irritated by every rub, how will your mirror be polished?"</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"I Find Hope In The Darkest Of Days, And Focus In The Brightest. I Do Not Judge The Universe."</em> — <strong>Dalai Lama</strong></p>
 <!-- QUOTE_END -->
 
 ---
