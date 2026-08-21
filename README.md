@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If you want to shine like the sun, first burn like the sun."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
