@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When I Hear A Man Preach, I Like To See Him Act As If He Were Fighting Bees."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Bear sorrows and calamities patiently, otherwise you will never be happy."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
