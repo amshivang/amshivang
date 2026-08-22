@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Champions aren't made in gyms. Champions are made from something they have deep inside them - a desire, a dream, a vision. They have to have the skill, and the will. But the will must be stronger than the skill."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Be motivated like the falcon, hunt gloriously. Be magnificent as the leopard, fight to win. Spend less time with nightingales and peacocks. One is all talk, the other only color."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
