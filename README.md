@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A man is hid under his tongue."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"The Undiscovered Country From Whose Bourn No Traveler Returns."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
