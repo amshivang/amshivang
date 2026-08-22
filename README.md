@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Others may know pleasure, but pleasure is not happiness. It has no more importance than a shadow following a man."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Champions come and go, but to be legendary you got to have heart, more heart than the next man, more than anyone in the world."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
