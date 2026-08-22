@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The So-Called Peace Path Is Not Peace And It Is Not A Substitute For Jihad And Resistance."</em> — <strong>Ahmed Yassin</strong></p>
+<p align="center"><em>"I'm the greatest, I'm a bad man, and I'm pretty!"</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
