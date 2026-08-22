@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Champions come and go, but to be legendary you got to have heart, more heart than the next man, more than anyone in the world."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Developing nations want to become developed nations."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
