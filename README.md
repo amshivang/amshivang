@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Bear sorrows and calamities patiently, otherwise you will never be happy."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"All Credibility, All Good Conscience, All Evidence Of Truth Come Only From The Senses."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
