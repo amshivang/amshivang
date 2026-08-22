@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Let me alone, and go in search of someone else."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"As We Express Our Gratitude, We Must Never Forget That The Highest Appreciation Is Not To Utter Words, But To Live By Them."</em> — <strong>John F. Kennedy</strong></p>
 <!-- QUOTE_END -->
 
 ---
