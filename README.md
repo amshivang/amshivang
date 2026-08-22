@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Never Allow Someone To Be Your Priority While Allowing Yourself To Be Their Option."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Let me alone, and go in search of someone else."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
