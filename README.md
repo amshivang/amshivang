@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A girl is a good deed and a boy is a bounty. Good deeds are rewarded while people are held accountable for bounties."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"When I Hear A Man Preach, I Like To See Him Act As If He Were Fighting Bees."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
