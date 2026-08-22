@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Developing nations want to become developed nations."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"If There Is Something To Pardon In Everything, There Is Also Something To Condemn."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
