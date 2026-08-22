@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If There Is Something To Pardon In Everything, There Is Also Something To Condemn."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"I have been a seeker and I still am, but I stopped asking the books and the stars. I started listening to the teaching of my Soul."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
