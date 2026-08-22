@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"There cannot be self-restraint in the absence of desire: when there is no adversary, what avails thy courage? Hark, do not castrate thyself, do not become a monk: chastity depends on the existence of lust."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
