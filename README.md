@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I have been a seeker and I still am, but I stopped asking the books and the stars. I started listening to the teaching of my Soul."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"In Order To Exist Just Once In The World, It Is Necessary Never Again To Exist."</em> — <strong>Albert Camus</strong></p>
 <!-- QUOTE_END -->
 
 ---
