@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Undiscovered Country From Whose Bourn No Traveler Returns."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"Never Allow Someone To Be Your Priority While Allowing Yourself To Be Their Option."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
