@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He That Can Have Patience Can Have What He Will."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
