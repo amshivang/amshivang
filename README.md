@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Anger Is Never Without A Reason, But Seldom With A Good One."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"Even The Darkest Night Will End And The Sun Will Rise."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
