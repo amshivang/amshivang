@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"This life is not real. I conquered the world and it did not bring me satisfaction."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I Guess I Don'T So Much Mind Being Old, As I Mind Being Fat And Old."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
