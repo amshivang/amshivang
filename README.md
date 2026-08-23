@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Oh writer! An Angel watches over all you write. Make your writing meaningful for it will eventually return to you and you will be questioned about what you wrote."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"May Allah have mercy on him who sends me my faults as a present."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
