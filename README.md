@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Change Your Opinions, Keep To Your Principles; Change Your Leaves, Keep Intact Your Roots."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"This life is not real. I conquered the world and it did not bring me satisfaction."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
