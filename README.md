@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do we not realize that self respect comes with self reliance?"</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Anger Is Never Without A Reason, But Seldom With A Good One."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
