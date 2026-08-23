@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Even The Darkest Night Will End And The Sun Will Rise."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"You have been a prisoner of a little pond I am the ocean and its turbulent flood Come merge with me leave this world of ignorance."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
