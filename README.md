@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Think Of Shadows Is A Serious Thing."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"Love Begins By Taking Care Of The Closest Ones - The Ones At Home."</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
