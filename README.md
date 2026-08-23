@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A developed India by 2020, or even earlier, is not a dream. It need not be a mere vision in the minds of many Indians. It is a mission we can all take up - and succeed."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Change Your Opinions, Keep To Your Principles; Change Your Leaves, Keep Intact Your Roots."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
