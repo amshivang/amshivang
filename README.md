@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Perfecting one's intellect causes one to speak less, and those words spoken will be adorned with wisdom."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"If you are irritated by every rub, how will your mirror be polished?"</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
