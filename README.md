@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Loyalty To The Country Always. Loyalty To The Government When It Deserves It."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"But Men Are Men; The Best Sometimes Forget."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
