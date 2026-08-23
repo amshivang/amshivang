@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Love Begins By Taking Care Of The Closest Ones - The Ones At Home."</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"Do we not realize that self respect comes with self reliance?"</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
