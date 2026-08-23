@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We Have New Developing Ties With Japan Whom Always Supports Our Democratic Process And Economic Development."</em> — <strong>Ali A. Saleh</strong></p>
+<p align="center"><em>"Pride in the case of a rich man is bad, but pride in the case of a poor man is worse."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
