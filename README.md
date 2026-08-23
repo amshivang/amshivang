@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You have been a prisoner of a little pond I am the ocean and its turbulent flood Come merge with me leave this world of ignorance."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Hope Is A Waking Dream."</em> — <strong>Aristotle</strong></p>
 <!-- QUOTE_END -->
 
 ---
