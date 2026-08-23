@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"But Men Are Men; The Best Sometimes Forget."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"Perfecting one's intellect causes one to speak less, and those words spoken will be adorned with wisdom."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
