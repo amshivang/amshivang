@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Man Who Is Good Enough To Shed His Blood For The Country Is Good Enough To Be Given A Square Deal Afterwards."</em> — <strong>Theodore Roosevelt</strong></p>
+<p align="center"><em>"To Think Of Shadows Is A Serious Thing."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
