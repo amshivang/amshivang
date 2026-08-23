@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Hating people because of their color is wrong. And it doesn't matter which color does the hating. It's just plain wrong."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"A Man Who Is Good Enough To Shed His Blood For The Country Is Good Enough To Be Given A Square Deal Afterwards."</em> — <strong>Theodore Roosevelt</strong></p>
 <!-- QUOTE_END -->
 
 ---
