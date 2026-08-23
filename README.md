@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"At home I am a nice guy: but I don't want the world to know. Humble people, I've found, don't get very far."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Oh writer! An Angel watches over all you write. Make your writing meaningful for it will eventually return to you and you will be questioned about what you wrote."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
