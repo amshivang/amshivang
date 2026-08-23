@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Hope Is A Waking Dream."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"Loyalty To The Country Always. Loyalty To The Government When It Deserves It."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
