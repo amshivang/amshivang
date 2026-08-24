@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Pride in the case of a rich man is bad, but pride in the case of a poor man is worse."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"No matter what is the environment around you, it is always possible to maintain your brand of integrity."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
