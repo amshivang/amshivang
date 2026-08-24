@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Are Responsible For Your Life. You Can'T Keep Blaming Somebody Else For Your Dysfunction. Life Is Really About Moving On."</em> — <strong>Oprah Winfrey</strong></p>
+<p align="center"><em>"Be Brave. Take Risks. Nothing Can Substitute Experience."</em> — <strong>Paulo Coelho</strong></p>
 <!-- QUOTE_END -->
 
 ---
