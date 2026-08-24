@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Like A Man Who Grins When He Fights."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"As a young citizen of India, armed with technology and love for my nation, I realize, a small aim is a crime."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
