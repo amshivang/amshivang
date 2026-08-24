@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"My worthiness is all my doubt His Merit- all my fear- Contrasting which my quality Does however appear."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"I Do Not Think Much Of A Man Who Is Not Wiser Today Than He Was Yesterday."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
