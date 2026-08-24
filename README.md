@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Have Enemies? Good. That Means You'Ve Stood Up For Something, Sometime In Your Life."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"The days of life pass away like clouds, so do good while you are alive."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
