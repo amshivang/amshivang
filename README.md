@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love."</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"My worthiness is all my doubt His Merit- all my fear- Contrasting which my quality Does however appear."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
