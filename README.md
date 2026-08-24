@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Even the greatest was once a beginner. Don't be afraid to take that first step."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Things Won Are Done, Joy'S Soul Lies In The Doing."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
