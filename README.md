@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself!"</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Beautiful people are not always good, but good people are always beautiful."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
