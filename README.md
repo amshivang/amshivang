@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"No matter what is the environment around you, it is always possible to maintain your brand of integrity."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
