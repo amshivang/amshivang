@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The time has come to turn your heart into a temple of fire. Your essence is gold hidden in dust. To reveal its splendor you need to burn in the fire of love."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself!"</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
