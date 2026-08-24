@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Beautiful people are not always good, but good people are always beautiful."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"I Like A Man Who Grins When He Fights."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
