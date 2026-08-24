@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Never, Never, Never Give Up."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love."</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
