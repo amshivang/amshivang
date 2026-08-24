@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Nations Are Born In The Hearts Of Poets, They Prosper And Die In The Hands Of Politicians."</em> — <strong>Muhammad Iqbal</strong></p>
+<p align="center"><em>"You Have Enemies? Good. That Means You'Ve Stood Up For Something, Sometime In Your Life."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
