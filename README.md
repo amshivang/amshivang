@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Things Won Are Done, Joy'S Soul Lies In The Doing."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"Nations Are Born In The Hearts Of Poets, They Prosper And Die In The Hands Of Politicians."</em> — <strong>Muhammad Iqbal</strong></p>
 <!-- QUOTE_END -->
 
 ---
