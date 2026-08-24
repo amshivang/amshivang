@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"As a young citizen of India, armed with technology and love for my nation, I realize, a small aim is a crime."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"You Are Responsible For Your Life. You Can'T Keep Blaming Somebody Else For Your Dysfunction. Life Is Really About Moving On."</em> — <strong>Oprah Winfrey</strong></p>
 <!-- QUOTE_END -->
 
 ---
