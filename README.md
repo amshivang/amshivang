@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The days of life pass away like clouds, so do good while you are alive."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Never, Never, Never Give Up."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
