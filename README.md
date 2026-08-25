@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Things Should Be Made As Simple As Possible, But Not Any Simpler."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Feet, What Do I Need You For When I Have Wings To Fly?"</em> — <strong>Frida Kahlo</strong></p>
 <!-- QUOTE_END -->
 
 ---
