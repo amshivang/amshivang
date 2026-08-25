@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The one from among the Muslims who recites the Qur'an but in the end finds his way to hell, is considered to be among those that have taken the word of Allah in jest."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Man Is Descended From A Hairy, Tailed Quadruped, Probably Arboreal In Its Habits."</em> — <strong>Charles Darwin</strong></p>
 <!-- QUOTE_END -->
 
 ---
