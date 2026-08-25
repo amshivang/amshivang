@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Take account of your deeds before they are taken account of."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"What comes, will go. What is found, will be lost again. But what you are is beyond coming and going and beyond description."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
