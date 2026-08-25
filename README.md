@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"A heart filled with love is like a phoenix that no cage can imprison."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
