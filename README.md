@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Look for the answer inside your question."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
