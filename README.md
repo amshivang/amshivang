@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Man Is Descended From A Hairy, Tailed Quadruped, Probably Arboreal In Its Habits."</em> — <strong>Charles Darwin</strong></p>
+<p align="center"><em>"What you seek is seeking you."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
