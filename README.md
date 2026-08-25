@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do not be like those on whom advice has no effect and who require punishment to correct themselves."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
