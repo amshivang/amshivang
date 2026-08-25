@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When I am silent, I have thunder hidden inside."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"You have escaped the cage. Your wings are stretched out. Now fly."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
