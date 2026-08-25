@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"Move, but don't move the way fear makes you move."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
