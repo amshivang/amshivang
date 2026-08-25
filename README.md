@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Opportunity Is Missed By Most People Because It Is Dressed In Overalls And Looks Like Work."</em> — <strong>Thomas A. Edison</strong></p>
+<p align="center"><em>"Things Should Be Made As Simple As Possible, But Not Any Simpler."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
