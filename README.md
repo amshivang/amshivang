@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be Brave. Take Risks. Nothing Can Substitute Experience."</em> — <strong>Paulo Coelho</strong></p>
+<p align="center"><em>"Take account of your deeds before they are taken account of."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
