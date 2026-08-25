@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Move, but don't move the way fear makes you move."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"When I am silent, I have thunder hidden inside."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
