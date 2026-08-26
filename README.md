@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"People Do Not Lack Strength; They Lack Will."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"One Of The Greatest Discoveries A Man Makes, One Of His Great Surprises, Is To Find He Can Do What He Was Afraid He Couldn'T Do."</em> — <strong>Henry Ford</strong></p>
 <!-- QUOTE_END -->
 
 ---
