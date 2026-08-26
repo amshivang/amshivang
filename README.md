@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Compliment Is Something Like A Kiss Through A Veil."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
