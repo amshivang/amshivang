@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Whenever You Find Yourself On The Side Of The Majority, It Is Time To Pause And Reflect."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"If you are irritated by every rub, how will your mirror be polished?"</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
