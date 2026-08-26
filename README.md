@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"What you seek is seeking you."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Acquire knowledge, and learn tranquility and dignity."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
