@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"One Of The Greatest Discoveries A Man Makes, One Of His Great Surprises, Is To Find He Can Do What He Was Afraid He Couldn'T Do."</em> — <strong>Henry Ford</strong></p>
+<p align="center"><em>"We Must Be Global Christians With A Global Vision Because Our God Is A Global God."</em> — <strong>John Stott</strong></p>
 <!-- QUOTE_END -->
 
 ---
