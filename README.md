@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Happy Marriage Is The Union Of Two Good Forgivers."</em> — <strong>Ruth Graham</strong></p>
+<p align="center"><em>"Whenever You Find Yourself On The Side Of The Majority, It Is Time To Pause And Reflect."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
