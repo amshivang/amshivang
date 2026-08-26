@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"You're not going to enjoy every minute of the journey, but the success you'll find at the end will make it all worth it."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
