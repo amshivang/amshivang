@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We Must Be Global Christians With A Global Vision Because Our God Is A Global God."</em> — <strong>John Stott</strong></p>
+<p align="center"><em>"A Happy Marriage Is The Union Of Two Good Forgivers."</em> — <strong>Ruth Graham</strong></p>
 <!-- QUOTE_END -->
 
 ---
