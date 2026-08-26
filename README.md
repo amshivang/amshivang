@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You're not going to enjoy every minute of the journey, but the success you'll find at the end will make it all worth it."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"A Good Conscience Is A Continual Christmas."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
