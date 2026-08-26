@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Our greatest strength lies in the gentleness and tenderness of our heart."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Seek the wisdom that will untie your knot. Seek the path that demands your whole being."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
