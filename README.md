@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"India should walk on her own shadow - we must have our own development model."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Failure Is A Detour, Not A Dead-End Street."</em> — <strong>Zig Ziglar</strong></p>
 <!-- QUOTE_END -->
 
 ---
