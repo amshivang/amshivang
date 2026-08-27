@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Good Conscience Is A Continual Christmas."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"India should walk on her own shadow - we must have our own development model."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
