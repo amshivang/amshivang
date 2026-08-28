@@ -127,7 +127,7 @@
 
     .ct-series-a .ct-area,
     .ct-series-a .ct-slice-pie {
-      fill: #9e4c98;
+      fill: #00F0FF;
     }
 
     .ct-label .ct-horizontal {
