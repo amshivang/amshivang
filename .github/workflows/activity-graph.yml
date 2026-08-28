@@ -17,7 +17,7 @@ jobs:
       - uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: bg_color=0D1117&color=00F0FF&line=00F0FF&point=00F0FF&title_color=00F0FF&hide_border=true&custom_title=Shivang%27s%20Contribution%20Chart&days=30
+          options: bg_color=0D1117&color=00F0FF&line=00F0FF&point=00F0FF&area_color=00F0FF&title_color=00F0FF&hide_border=true&custom_title=Shivang%27s%20Contribution%20Chart&days=30
           output_path: activity-graph/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit & Push
