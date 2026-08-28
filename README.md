@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Your Time Is Limited, So Don'T Waste It Living Someone Else'S Life."</em> — <strong>Steve Jobs</strong></p>
+<p align="center"><em>"A Man Should Never Neglect His Family For Business."</em> — <strong>Walt Disney</strong></p>
 <!-- QUOTE_END -->
 
 ---
