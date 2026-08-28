@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Man Should Never Neglect His Family For Business."</em> — <strong>Walt Disney</strong></p>
+<p align="center"><em>"I died as a mineral and became a plant, I died as a plant and rose to animal, I died as an animal and I was Man. Why should I fear? When was I less by dying?"</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
