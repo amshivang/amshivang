@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="activity-graph/activity-graph.svg" alt="Shivang's Contribution Chart" width="98%" />
+  <img src="activity-graph/activity-graph.svg?v=2" alt="Shivang's Contribution Chart" width="98%" />
 </div>
 
 <br>
