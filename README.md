@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=amshivang&background=0D1117&ring=9e4c98&fire=9e4c98&currStreakNum=9e4c98&sideNums=9e4c98&currStreakLabel=9e4c98&sideLabels=9e4c98&dates=9e4c98&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=amshivang&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=00F0FF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
