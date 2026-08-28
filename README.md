@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=amshivang&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=00F0FF&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=amshivang&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
