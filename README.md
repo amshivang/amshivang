@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There comes a time in every person's life when he has to choose the course his life will take."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
