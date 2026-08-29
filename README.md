@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Love Is Blind; Friendship Closes Its Eyes."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
