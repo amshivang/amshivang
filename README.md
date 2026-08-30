@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The nourishment of body is food, while the nourishment of the soul is feeding others."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"The minute I heard my first love story, I started looking for you."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
