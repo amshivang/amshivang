@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Suit The Action To The Word, The Word To The Action."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"Do Not Fear Mistakes. You Will Know Failure. Continue To Reach Out."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
