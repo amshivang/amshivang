@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The minute I heard my first love story, I started looking for you."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Money Demands That You Sell, Not Your Weakness To Men'S Stupidity, But Your Talent To Their Reason."</em> — <strong>Ayn Rand</strong></p>
 <!-- QUOTE_END -->
 
 ---
