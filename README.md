@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Money Demands That You Sell, Not Your Weakness To Men'S Stupidity, But Your Talent To Their Reason."</em> — <strong>Ayn Rand</strong></p>
+<p align="center"><em>"George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
