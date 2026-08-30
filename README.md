@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Suit The Action To The Word, The Word To The Action."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
