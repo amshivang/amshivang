@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Talent In Cheaper Than Table Salt. What Separates The Talented Individual From The Successful One Is A Lot Of Hard Work."</em> — <strong>Stephen King</strong></p>
+<p align="center"><em>"When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
