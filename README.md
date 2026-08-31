@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Person Who Won'T Read Has No Advantage Over One Who Can'T Read."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"The Price Of Greatness Is Responsibility."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
