@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do Not Fear Mistakes. You Will Know Failure. Continue To Reach Out."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"Talent In Cheaper Than Table Salt. What Separates The Talented Individual From The Successful One Is A Lot Of Hard Work."</em> — <strong>Stephen King</strong></p>
 <!-- QUOTE_END -->
 
 ---
