@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"A Person Who Won'T Read Has No Advantage Over One Who Can'T Read."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
