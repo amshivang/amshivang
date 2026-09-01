@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Price Of Greatness Is Responsibility."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"A Compliment Is Something Like A Kiss Through A Veil."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
