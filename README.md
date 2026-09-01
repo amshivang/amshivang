@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"People Ask The Difference Between A Leader And A Boss. The Leader Leads, And The Boss Drives."</em> — <strong>Theodore Roosevelt</strong></p>
+<p align="center"><em>"We are born of love. Love is our mother."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
