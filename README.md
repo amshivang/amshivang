@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Object Of The Superior Man Is Truth."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"Lead such a life, that, when you die, the people may mourn you, and while you are alive they long for your company."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
