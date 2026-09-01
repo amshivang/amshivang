@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We are born of love. Love is our mother."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"The Object Of The Superior Man Is Truth."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
