@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"People Ask The Difference Between A Leader And A Boss. The Leader Leads, And The Boss Drives."</em> — <strong>Theodore Roosevelt</strong></p>
 <!-- QUOTE_END -->
 
 ---
