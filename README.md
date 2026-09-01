@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Compliment Is Something Like A Kiss Through A Veil."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
