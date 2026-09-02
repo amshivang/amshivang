@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"The nourishment of body is food, while the nourishment of the soul is feeding others."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
