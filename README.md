@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Don'T Have To See The Whole Staircase, Just Take The First Step."</em> — <strong>Martin Luther King  Jr.</strong></p>
+<p align="center"><em>"Do not take someone's silence as his pride, perhaps he is busy fighting with his self."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
