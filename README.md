@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Lead such a life, that, when you die, the people may mourn you, and while you are alive they long for your company."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"God Doesn'T Require Us To Succeed, He Only Requires That You Try."</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
