@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"God Doesn'T Require Us To Succeed, He Only Requires That You Try."</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
