@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The nourishment of body is food, while the nourishment of the soul is feeding others."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"You Don'T Have To See The Whole Staircase, Just Take The First Step."</em> — <strong>Martin Luther King  Jr.</strong></p>
 <!-- QUOTE_END -->
 
 ---
