@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When you do things from your soul, you feel a river moving in you, a joy."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
