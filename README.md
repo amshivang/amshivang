@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Do not be like those on whom advice has no effect and who require punishment to correct themselves."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
