@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Nothing I'Ve Ever Done Has Given Me More Joys And Rewards Than Being A Father To My Children."</em> — <strong>Bill Cosby</strong></p>
+<p align="center"><em>"As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
