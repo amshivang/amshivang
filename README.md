@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
