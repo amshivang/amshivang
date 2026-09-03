@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Isn'T It Strange That I Who Have Written Only Unpopular Books Should Be Such A Popular Fellow?"</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
