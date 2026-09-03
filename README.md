@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Isn'T It Strange That I Who Have Written Only Unpopular Books Should Be Such A Popular Fellow?"</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Nothing I'Ve Ever Done Has Given Me More Joys And Rewards Than Being A Father To My Children."</em> — <strong>Bill Cosby</strong></p>
 <!-- QUOTE_END -->
 
 ---
