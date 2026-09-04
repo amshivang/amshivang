@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Many Foxes Grow Gray But Few Grow Good."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"All Great Achievements Require Time."</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
