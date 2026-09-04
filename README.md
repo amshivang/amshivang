@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Forgive people so that Allah may forgive you."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"I'm most proud of my family."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
