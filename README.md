@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I'm most proud of my family."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Many Foxes Grow Gray But Few Grow Good."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
