@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do not be like those on whom advice has no effect and who require punishment to correct themselves."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Inside the Great Mystery that is, we don't really own anything. What is this competition we feel then, before we go, one at a time, through the same gate?"</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
