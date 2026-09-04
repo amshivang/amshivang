@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Inside the Great Mystery that is, we don't really own anything. What is this competition we feel then, before we go, one at a time, through the same gate?"</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"A man may be as straight as an arrow, but even then he will have some critics."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
