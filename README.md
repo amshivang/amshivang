@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Man needs his difficulties because they are necessary to enjoy success."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Music Was My Refuge. I Could Crawl Into The Space Between The Notes And Curl My Back To Loneliness."</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
