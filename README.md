@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Your Time Is Limited, So Don'T Waste It Living Someone Else'S Life."</em> — <strong>Steve Jobs</strong></p>
+<p align="center"><em>"Good Actions Are A Guard Against The Blows Of Adversity."</em> — <strong>Abu Bakr</strong></p>
 <!-- QUOTE_END -->
 
 ---
