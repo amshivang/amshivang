@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Music Was My Refuge. I Could Crawl Into The Space Between The Notes And Curl My Back To Loneliness."</em> — <strong>Maya Angelou</strong></p>
+<p align="center"><em>"The sweetness of life lies in dispensing with formalities."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
