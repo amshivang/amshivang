@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Good Actions Are A Guard Against The Blows Of Adversity."</em> — <strong>Abu Bakr</strong></p>
+<p align="center"><em>"The relation of patience to iman is like the relation of the head to the body. If the head is chopped off, the body becomes useless. Then he raised his voice and said: Certainly, the one who has no patience has no iman, and patience is like a riding-beast that nevers gets tired."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
