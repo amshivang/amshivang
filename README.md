@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Education Is What Remains After One Has Forgotten What One Has Learned In School."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Ability Will Never Catch Up With The Demand For It."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
