@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The sweetness of life lies in dispensing with formalities."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Your Time Is Limited, So Don'T Waste It Living Someone Else'S Life."</em> — <strong>Steve Jobs</strong></p>
 <!-- QUOTE_END -->
 
 ---
