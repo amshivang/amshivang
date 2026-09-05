@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"All Great Achievements Require Time."</em> — <strong>Maya Angelou</strong></p>
+<p align="center"><em>"Man needs his difficulties because they are necessary to enjoy success."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
