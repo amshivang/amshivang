@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Pride in the case of a rich man is bad, but pride in the case of a poor man is worse."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"I Am Always Ready To Learn Although I Do Not Always Like Being Taught."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
