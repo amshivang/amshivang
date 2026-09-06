@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Men And Women Belong To Different Species And Communications Between Them Is Still In Its Infancy."</em> — <strong>Bill Cosby</strong></p>
+<p align="center"><em>"Things May Come To Those Who Wait, But Only The Things Left By Those Who Hustle."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
