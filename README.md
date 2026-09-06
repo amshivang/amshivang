@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Am Always Ready To Learn Although I Do Not Always Like Being Taught."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"Men And Women Belong To Different Species And Communications Between Them Is Still In Its Infancy."</em> — <strong>Bill Cosby</strong></p>
 <!-- QUOTE_END -->
 
 ---
