@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Ability Will Never Catch Up With The Demand For It."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"No amount of worrying can change the future. Go easy on yourself, for the outcome of all affairs is determined by God's decree. If something is meant to go elsewhere, it will never come your way, but if it is yours by destiny, from you it cannot flee."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
