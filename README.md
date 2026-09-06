@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"My definition of evil is unfriendliness."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Pride in the case of a rich man is bad, but pride in the case of a poor man is worse."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
