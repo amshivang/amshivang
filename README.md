@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"There is a voice that doesn't use words. Listen."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
