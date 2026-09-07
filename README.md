@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"People's hearts are like wild animals. They attach their selves to those that love and train them."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"He who fears to weep, should learn to be kind to those who weep."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
