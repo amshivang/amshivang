@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He who fears to weep, should learn to be kind to those who weep."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"Purify your eyes, and see the pure world. Your life will fill with radiant forms."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
