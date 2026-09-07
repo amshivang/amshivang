@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There is a voice that doesn't use words. Listen."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"People's hearts are like wild animals. They attach their selves to those that love and train them."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
