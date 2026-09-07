@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Things May Come To Those Who Wait, But Only The Things Left By Those Who Hustle."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
