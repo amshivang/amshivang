@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Music Expresses That Which Cannot Be Put Into Words."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"Allah will help him who moves in the way of Allah."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
