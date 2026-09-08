@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Believe In Christianity As I Believe That The Sun Has Risen: Not Only Because I See It, But Because By It I See Everything Else."</em> — <strong>C. S. Lewis</strong></p>
+<p align="center"><em>"If You Tell The Truth, You Don'T Have To Remember Anything."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
