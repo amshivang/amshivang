@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Good Conscience Is A Continual Christmas."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"Music Expresses That Which Cannot Be Put Into Words."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
