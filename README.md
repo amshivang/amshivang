@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Beware Of Little Expenses. A Small Leak Will Sink A Great Ship."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"A Good Conscience Is A Continual Christmas."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
