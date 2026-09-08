@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Plants And Minerals Are Bound To Predestination. The Faithful Is Only Bound To The Divine Orders."</em> — <strong>Muhammad Iqbal</strong></p>
+<p align="center"><em>"I Believe In Christianity As I Believe That The Sun Has Risen: Not Only Because I See It, But Because By It I See Everything Else."</em> — <strong>C. S. Lewis</strong></p>
 <!-- QUOTE_END -->
 
 ---
