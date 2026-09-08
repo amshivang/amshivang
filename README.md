@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Purify your eyes, and see the pure world. Your life will fill with radiant forms."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Plants And Minerals Are Bound To Predestination. The Faithful Is Only Bound To The Divine Orders."</em> — <strong>Muhammad Iqbal</strong></p>
 <!-- QUOTE_END -->
 
 ---
