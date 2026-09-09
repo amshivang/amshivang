@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Believe That Every Person Is Born With Talent."</em> — <strong>Maya Angelou</strong></p>
+<p align="center"><em>"Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
