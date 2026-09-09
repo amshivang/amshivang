@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
