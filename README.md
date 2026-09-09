@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"It Is Better To Deserve Honors And Not Have Them Than To Have Them And Not Deserve Them."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Nothing can nourish the SOUL but LIGHT."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
