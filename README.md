@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The death of a thousand worshipers is easier to bear than the death of a scholar who has knowledge of what Allah has permitted and forbidden."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"It Is Better To Deserve Honors And Not Have Them Than To Have Them And Not Deserve Them."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
