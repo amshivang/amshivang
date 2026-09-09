@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"The death of a thousand worshipers is easier to bear than the death of a scholar who has knowledge of what Allah has permitted and forbidden."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
