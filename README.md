@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Allah will help him who moves in the way of Allah."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"I Believe That Every Person Is Born With Talent."</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
