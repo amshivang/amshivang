@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Adversity Makes Men, And Prosperity Makes Monsters."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"Just As Courage Imperils Life, Fear Protects It."</em> — <strong>Leonardo Da Vinci</strong></p>
 <!-- QUOTE_END -->
 
 ---
