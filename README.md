@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When You Have Really Exhausted An Experience You Always Reverence And Love It."</em> — <strong>Albert Camus</strong></p>
+<p align="center"><em>"Man comes from a drop of semen and leaves as a piece of dust. He doesn't know when he came and he doesn't know when he's leaving, yet he walks on the earth thinking he knows everything."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
