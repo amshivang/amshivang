@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Your souls are precious and can only be equal to the price of Paradise, therefore sell them only at that price."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Adversity Makes Men, And Prosperity Makes Monsters."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
