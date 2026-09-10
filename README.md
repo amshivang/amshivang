@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Just As Courage Imperils Life, Fear Protects It."</em> — <strong>Leonardo Da Vinci</strong></p>
+<p align="center"><em>"Being The Richest Man In The Cemetery Doesn'T Matter To Me. Going To Bed At Night Saying We'Ve Done Something Wonderful, That'S What Matters To Me."</em> — <strong>Steve Jobs</strong></p>
 <!-- QUOTE_END -->
 
 ---
