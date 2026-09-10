@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Nothing can nourish the SOUL but LIGHT."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"When You Have Really Exhausted An Experience You Always Reverence And Love It."</em> — <strong>Albert Camus</strong></p>
 <!-- QUOTE_END -->
 
 ---
