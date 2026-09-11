@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Today, India is a nuclear weapons state."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"There Is No More Lovely, Friendly And Charming Relationship, Communion Or Company Than A Good Marriage."</em> — <strong>Martin Luther</strong></p>
 <!-- QUOTE_END -->
 
 ---
