@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Am The Literary Equivalent Of A Big Mac And Fries."</em> — <strong>Stephen King</strong></p>
+<p align="center"><em>"Taqwaa is not by praying all night and fasting all day but rather it is abiding by the commands of Allah and staying away from His prohibitions."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
