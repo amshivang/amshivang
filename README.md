@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Innovation Distinguishes Between A Leader And A Follower."</em> — <strong>Steve Jobs</strong></p>
+<p align="center"><em>"I am the greatest, I said that even before I knew I was."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
