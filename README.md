@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There Is No More Lovely, Friendly And Charming Relationship, Communion Or Company Than A Good Marriage."</em> — <strong>Martin Luther</strong></p>
+<p align="center"><em>"Innovation Distinguishes Between A Leader And A Follower."</em> — <strong>Steve Jobs</strong></p>
 <!-- QUOTE_END -->
 
 ---
