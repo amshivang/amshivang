@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Taqwaa is not by praying all night and fasting all day but rather it is abiding by the commands of Allah and staying away from His prohibitions."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Be A Yardstick Of Quality. Some People Aren'T Used To An Environment Where Excellence Is Expected."</em> — <strong>Steve Jobs</strong></p>
 <!-- QUOTE_END -->
 
 ---
