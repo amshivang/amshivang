@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I am the greatest, I said that even before I knew I was."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I Am The Literary Equivalent Of A Big Mac And Fries."</em> — <strong>Stephen King</strong></p>
 <!-- QUOTE_END -->
 
 ---
