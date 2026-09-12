@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child."</em> — <strong>Marie Curie</strong></p>
+<p align="center"><em>"A Successful Man Is One Who Can Lay A Firm Foundation With The Bricks Others Have Thrown At Him."</em> — <strong>David Brinkley</strong></p>
 <!-- QUOTE_END -->
 
 ---
