@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb."</em> — <strong>Nelson Mandela</strong></p>
 <!-- QUOTE_END -->
 
 ---
