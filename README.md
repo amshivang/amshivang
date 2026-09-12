@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Successful Man Is One Who Can Lay A Firm Foundation With The Bricks Others Have Thrown At Him."</em> — <strong>David Brinkley</strong></p>
+<p align="center"><em>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
