@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Sir, My Concern Is Not Whether God Is On Our Side; My Greatest Concern Is To Be On God'S Side, For God Is Always Right."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"The lamps are different, but the Light is the same. One matter, one energy, one Light, one Light-mind, endlessly emanating all things."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
