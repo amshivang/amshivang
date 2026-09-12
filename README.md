@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be A Yardstick Of Quality. Some People Aren'T Used To An Environment Where Excellence Is Expected."</em> — <strong>Steve Jobs</strong></p>
+<p align="center"><em>"Sir, My Concern Is Not Whether God Is On Our Side; My Greatest Concern Is To Be On God'S Side, For God Is Always Right."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
