@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Strive Not To Be A Success, But Rather To Be Of Value."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Do not be like those on whom advice has no effect and who require punishment to correct themselves."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
