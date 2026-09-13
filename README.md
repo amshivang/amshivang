@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Hell With Circumstances; I Create Opportunities."</em> — <strong>Bruce Lee</strong></p>
+<p align="center"><em>"I am not this hair. I am not this skin. I am the soul that lives within."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
