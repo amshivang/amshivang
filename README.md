@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Courage Is What It Takes To Stand Up And Speak; Courage Is Also What It Takes To Sit Down And Listen."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"To Hell With Circumstances; I Create Opportunities."</em> — <strong>Bruce Lee</strong></p>
 <!-- QUOTE_END -->
 
 ---
