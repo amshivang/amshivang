@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb."</em> — <strong>Nelson Mandela</strong></p>
+<p align="center"><em>"Wealth tends to create enemies, whereas knowledge tends to warm hearts."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
