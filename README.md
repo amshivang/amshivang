@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Wealth tends to create enemies, whereas knowledge tends to warm hearts."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"His hands can't hit what his eyes can't see."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
