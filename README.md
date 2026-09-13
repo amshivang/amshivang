@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"His hands can't hit what his eyes can't see."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Courage Is What It Takes To Stand Up And Speak; Courage Is Also What It Takes To Sit Down And Listen."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
