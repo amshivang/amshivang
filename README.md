@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"No one starts out on top. You have to work your way up."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"To Give Victory To The Right, Not Bloody Bullets, But Peaceful Ballots Only, Are Necessary."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
