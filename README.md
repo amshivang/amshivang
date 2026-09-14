@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Muslims should live like brothers."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"Force Always Attracts Men Of Low Morality."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
