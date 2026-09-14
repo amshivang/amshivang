@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Before Marriage, A Girl Has To Make Love To A Man To Hold Him. After Marriage, She Has To Hold Him To Make Love To Him."</em> — <strong>Marilyn Monroe</strong></p>
+<p align="center"><em>"No one starts out on top. You have to work your way up."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
