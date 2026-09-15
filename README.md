@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Roots Of Education Are Bitter, But The Fruit Is Sweet."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"That'S The Real Trouble With The World, Too Many People Grow Up"</em> — <strong>Walt Disney</strong></p>
 <!-- QUOTE_END -->
 
 ---
