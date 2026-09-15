@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Let silence take you to the core of life."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"The Roots Of Education Are Bitter, But The Fruit Is Sweet."</em> — <strong>Aristotle</strong></p>
 <!-- QUOTE_END -->
 
 ---
