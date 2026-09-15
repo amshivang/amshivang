@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Maybe a thing that you do not like is really in your interest. It is possible that a thing that you may desire may be against your interest."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"Let silence take you to the core of life."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
