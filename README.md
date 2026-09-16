@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Run away from greatness and greatness will follow you."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"Imagination Is More Important Than Knowledge."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
