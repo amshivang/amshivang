@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Want You To Be Concerned About Your Next Door Neighbor. Do You Know Your Next Door Neighbor?"</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"Where there is ruin, there is hope for a treasure."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
