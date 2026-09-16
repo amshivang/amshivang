@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Imagination Is More Important Than Knowledge."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Nations consist of people. And with their effort, a nation can accomplish all it could ever want."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
