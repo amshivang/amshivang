@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Where there is ruin, there is hope for a treasure."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"I Have Nothing To Offer But Blood, Toil, Tears And Sweat."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
