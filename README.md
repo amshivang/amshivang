@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"That'S The Real Trouble With The World, Too Many People Grow Up"</em> — <strong>Walt Disney</strong></p>
+<p align="center"><em>"Run away from greatness and greatness will follow you."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
