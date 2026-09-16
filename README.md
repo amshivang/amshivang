@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Nations consist of people. And with their effort, a nation can accomplish all it could ever want."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"I Want You To Be Concerned About Your Next Door Neighbor. Do You Know Your Next Door Neighbor?"</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
