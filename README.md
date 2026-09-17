@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Christian Resolution To Find The World Ugly And Bad Has Made The World Ugly And Bad."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
