@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The minute I heard my first love story, I started looking for you."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Think Of All The Beauty Still Left Around You And Be Happy."</em> — <strong>Anne Frank</strong></p>
 <!-- QUOTE_END -->
 
 ---
