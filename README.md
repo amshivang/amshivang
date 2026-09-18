@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"Chains Of Habit Are Too Light To Be Felt Until They Are Too Heavy To Be Broken."</em> — <strong>Warren Buffett</strong></p>
 <!-- QUOTE_END -->
 
 ---
