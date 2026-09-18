@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"When knowledge is limited - it leads to folly... When knowledge exceeds a certain limit, it leads to exploitation."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
