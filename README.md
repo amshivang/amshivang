@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When knowledge is limited - it leads to folly... When knowledge exceeds a certain limit, it leads to exploitation."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"Money Demands That You Sell, Not Your Weakness To Men'S Stupidity, But Your Talent To Their Reason."</em> — <strong>Ayn Rand</strong></p>
 <!-- QUOTE_END -->
 
 ---
