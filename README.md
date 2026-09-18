@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Money Demands That You Sell, Not Your Weakness To Men'S Stupidity, But Your Talent To Their Reason."</em> — <strong>Ayn Rand</strong></p>
+<p align="center"><em>"A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
