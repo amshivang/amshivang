@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Word To The Wise Ain'T Necessary - It'S The Stupid Ones That Need The Advice."</em> — <strong>Bill Cosby</strong></p>
+<p align="center"><em>"You are not just the drop in the ocean. You are the mighty ocean in the drop."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
