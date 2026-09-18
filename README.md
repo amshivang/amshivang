@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Chains Of Habit Are Too Light To Be Felt Until They Are Too Heavy To Be Broken."</em> — <strong>Warren Buffett</strong></p>
+<p align="center"><em>"A Word To The Wise Ain'T Necessary - It'S The Stupid Ones That Need The Advice."</em> — <strong>Bill Cosby</strong></p>
 <!-- QUOTE_END -->
 
 ---
