@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
