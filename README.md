@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence."</em> — <strong>Albert Camus</strong></p>
+<p align="center"><em>"You Can'T Deny Laughter; When It Comes, It Plops Down In Your Favorite Chair And Stays As Long As It Wants."</em> — <strong>Stephen King</strong></p>
 <!-- QUOTE_END -->
 
 ---
