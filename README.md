@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He who does not live in the way of his beliefs starts to believe in the way he lives."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Russia Is A Riddle Wrapped In A Mystery Inside An Enigma."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
