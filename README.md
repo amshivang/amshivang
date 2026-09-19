@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Can'T Deny Laughter; When It Comes, It Plops Down In Your Favorite Chair And Stays As Long As It Wants."</em> — <strong>Stephen King</strong></p>
+<p align="center"><em>"A Riot Is At Bottom The Language Of The Unheard."</em> — <strong>Martin Luther King, Jr.</strong></p>
 <!-- QUOTE_END -->
 
 ---
