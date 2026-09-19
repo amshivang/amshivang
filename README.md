@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Russia Is A Riddle Wrapped In A Mystery Inside An Enigma."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence."</em> — <strong>Albert Camus</strong></p>
 <!-- QUOTE_END -->
 
 ---
