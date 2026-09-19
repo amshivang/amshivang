@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Riot Is At Bottom The Language Of The Unheard."</em> — <strong>Martin Luther King, Jr.</strong></p>
+<p align="center"><em>"That all you got, George?"</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
