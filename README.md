@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"That all you got, George?"</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
