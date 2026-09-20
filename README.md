@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion."</em> — <strong>Dalai Lama</strong></p>
+<p align="center"><em>"The lamps are different, but the Light is the same. One matter, one energy, one Light, one Light-mind, endlessly emanating all things."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
