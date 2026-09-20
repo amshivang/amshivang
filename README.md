@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion."</em> — <strong>Dalai Lama</strong></p>
 <!-- QUOTE_END -->
 
 ---
