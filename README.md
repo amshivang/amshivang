@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"My soul is my guide, for my soul is of that abode. I will not speak of the earthly. I am of the unknown."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"A Person Who Won'T Read Has No Advantage Over One Who Can'T Read."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
