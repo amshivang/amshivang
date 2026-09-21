@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"War is never a lasting solution for any problem."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Never Mistake Motion For Action."</em> — <strong>Ernest Hemingway</strong></p>
 <!-- QUOTE_END -->
 
 ---
