@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"We Are Not Trying To Entertain The Critics. I'Ll Take My Chances With The Public."</em> — <strong>Walt Disney</strong></p>
 <!-- QUOTE_END -->
 
 ---
