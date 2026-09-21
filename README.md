@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We Are Not Trying To Entertain The Critics. I'Ll Take My Chances With The Public."</em> — <strong>Walt Disney</strong></p>
+<p align="center"><em>"War is never a lasting solution for any problem."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
