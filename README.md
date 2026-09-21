@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Lot Of People Quit Looking For Work As Soon As They Find A Job."</em> — <strong>Zig Ziglar</strong></p>
+<p align="center"><em>"He who aspires to paradise should learn to deal with people with kindness."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
