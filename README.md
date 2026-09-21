@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Never Mistake Motion For Action."</em> — <strong>Ernest Hemingway</strong></p>
+<p align="center"><em>"A Lot Of People Quit Looking For Work As Soon As They Find A Job."</em> — <strong>Zig Ziglar</strong></p>
 <!-- QUOTE_END -->
 
 ---
