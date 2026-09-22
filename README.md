@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Rest but never quit. Even the sun has a sinking spell each evening. But it always rises the next morning. At sunrise, every soul is born again."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"So Go Ahead. Fall Down. The World Looks Different From The Ground."</em> — <strong>Oprah Winfrey</strong></p>
 <!-- QUOTE_END -->
 
 ---
