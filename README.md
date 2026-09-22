@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When a man puts me a question, I judge of his intelligence."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Nothing can nourish the SOUL but LIGHT."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
