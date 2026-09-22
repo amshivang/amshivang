@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He who aspires to paradise should learn to deal with people with kindness."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"If You Have Good Thoughts They Will Shine Out Of Your Face Like Sunbeams And You Will Always Look Lovely."</em> — <strong>Roald Dahl</strong></p>
 <!-- QUOTE_END -->
 
 ---
