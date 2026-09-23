@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Humility Is Not Thinking Less Of Yourself, It'S Thinking Of Yourself Less."</em> — <strong>C. S. Lewis</strong></p>
+<p align="center"><em>"There Are Several Good Protections Against Temptation, But The Surest Is Cowardice."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
