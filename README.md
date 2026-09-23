@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There Are Several Good Protections Against Temptation, But The Surest Is Cowardice."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
