@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Only last week I murdered a rock, injured a stone and hospitalized a brick."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Humility Is Not Thinking Less Of Yourself, It'S Thinking Of Yourself Less."</em> — <strong>C. S. Lewis</strong></p>
 <!-- QUOTE_END -->
 
 ---
