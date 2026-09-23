@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"So Go Ahead. Fall Down. The World Looks Different From The Ground."</em> — <strong>Oprah Winfrey</strong></p>
+<p align="center"><em>"Be Brave. Take Risks. Nothing Can Substitute Experience."</em> — <strong>Paulo Coelho</strong></p>
 <!-- QUOTE_END -->
 
 ---
