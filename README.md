@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be Brave. Take Risks. Nothing Can Substitute Experience."</em> — <strong>Paulo Coelho</strong></p>
+<p align="center"><em>"Only last week I murdered a rock, injured a stone and hospitalized a brick."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
