@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"A Candle never Loses any of its Light while Lighting up another candle."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
