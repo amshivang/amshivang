@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Allah is the Greatest. I'm just the greatest boxer."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
