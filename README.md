@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Man comes from a drop of semen and leaves as a piece of dust. He doesn't know when he came and he doesn't know when he's leaving, yet he walks on the earth thinking he knows everything."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Good Actions Are A Guard Against The Blows Of Adversity."</em> — <strong>Abu Bakr</strong></p>
 <!-- QUOTE_END -->
 
 ---
