@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You are not just the drop in the ocean. You are the mighty ocean in the drop."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Allah is the Greatest. I'm just the greatest boxer."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
