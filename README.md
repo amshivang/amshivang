@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Think It'S Nice For Women To Try To Be Sexy For Their Man."</em> — <strong>Salma Hayek</strong></p>
+<p align="center"><em>"The wisest man is he who can account for his actions."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
