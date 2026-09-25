@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Hope Is A Waking Dream."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"I Think It'S Nice For Women To Try To Be Sexy For Their Man."</em> — <strong>Salma Hayek</strong></p>
 <!-- QUOTE_END -->
 
 ---
