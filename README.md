@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"Hope Is A Waking Dream."</em> — <strong>Aristotle</strong></p>
 <!-- QUOTE_END -->
 
 ---
