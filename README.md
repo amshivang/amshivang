@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Good Actions Are A Guard Against The Blows Of Adversity."</em> — <strong>Abu Bakr</strong></p>
+<p align="center"><em>"Those doing soul work, who want the searing truth more than solace or applause, know each other right away. Those who want something else turn and take a seat in another room. Soul-makers find each other's company."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
