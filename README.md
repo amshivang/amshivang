@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The wisest man is he who can account for his actions."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered."</em> — <strong>Aristotle</strong></p>
 <!-- QUOTE_END -->
 
 ---
