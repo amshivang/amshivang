@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
