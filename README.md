@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When wisdom reaches the acme of perfection, it will suppress the vicious instincts and injurious desires."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Here is a relationship booster that is guaranteed to work: Every time your spouse or lover says something stupid make your eyes light up as if you just heard something brilliant."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
