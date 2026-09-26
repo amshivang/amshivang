@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Here is a relationship booster that is guaranteed to work: Every time your spouse or lover says something stupid make your eyes light up as if you just heard something brilliant."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"That's how you came here, like a star without a name. Move across the night sky with those anonymous lights."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
