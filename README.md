@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"That's how you came here, like a star without a name. Move across the night sky with those anonymous lights."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere."</em> — <strong>Carl Sagan</strong></p>
 <!-- QUOTE_END -->
 
 ---
