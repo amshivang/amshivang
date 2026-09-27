@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Nations consist of people. And with their effort, a nation can accomplish all it could ever want."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"People's hearts are like wild animals. They attach their selves to those that love and train them."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
