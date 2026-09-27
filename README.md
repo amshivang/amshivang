@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"People's hearts are like wild animals. They attach their selves to those that love and train them."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"The World Breaks Everyone, And Afterward, Some Are Strong At The Broken Places."</em> — <strong>Ernest Hemingway</strong></p>
 <!-- QUOTE_END -->
 
 ---
