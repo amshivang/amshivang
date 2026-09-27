@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere."</em> — <strong>Carl Sagan</strong></p>
+<p align="center"><em>"A Lot Of People Quit Looking For Work As Soon As They Find A Job."</em> — <strong>Zig Ziglar</strong></p>
 <!-- QUOTE_END -->
 
 ---
