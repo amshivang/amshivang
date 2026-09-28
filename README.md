@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We Must Be Global Christians With A Global Vision Because Our God Is A Global God."</em> — <strong>John Stott</strong></p>
+<p align="center"><em>"I died as a mineral and became a plant, I died as a plant and rose to animal, I died as an animal and I was Man. Why should I fear? When was I less by dying?"</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
