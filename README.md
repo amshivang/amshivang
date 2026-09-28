@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The World Breaks Everyone, And Afterward, Some Are Strong At The Broken Places."</em> — <strong>Ernest Hemingway</strong></p>
+<p align="center"><em>"Joy In Looking And Comprehending Is Nature'S Most Beautiful Gift."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
