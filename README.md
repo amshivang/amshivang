@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"We Must Be Global Christians With A Global Vision Because Our God Is A Global God."</em> — <strong>John Stott</strong></p>
 <!-- QUOTE_END -->
 
 ---
