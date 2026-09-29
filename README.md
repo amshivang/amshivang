@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Man Is Still The Most Extraordinary Computer Of All."</em> — <strong>John F. Kennedy</strong></p>
+<p align="center"><em>"Derivatives Are Financial Weapons Of Mass Destruction."</em> — <strong>Warren Buffett</strong></p>
 <!-- QUOTE_END -->
 
 ---
