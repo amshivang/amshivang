@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I died as a mineral and became a plant, I died as a plant and rose to animal, I died as an animal and I was Man. Why should I fear? When was I less by dying?"</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Champions aren't made in gyms. Champions are made from something they have deep inside them - a desire, a dream, a vision. They have to have the skill, and the will. But the will must be stronger than the skill."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
