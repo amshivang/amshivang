@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Derivatives Are Financial Weapons Of Mass Destruction."</em> — <strong>Warren Buffett</strong></p>
+<p align="center"><em>"The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
