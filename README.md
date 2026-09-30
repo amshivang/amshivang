@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
