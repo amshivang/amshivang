@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Wisdom is like the rain. Its source is limitless, but it comes down according to the season."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
