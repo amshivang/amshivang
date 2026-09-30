@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Wisdom is like the rain. Its source is limitless, but it comes down according to the season."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"There is no rest for the person who has envy, and there is no love for the person who has bad manners."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
