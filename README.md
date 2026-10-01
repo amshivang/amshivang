@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I know you're tired but come, this is the way."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"When you advise any person you should be guided by the fear of God."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
