@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Candle never Loses any of its Light while Lighting up another candle."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"I know you're tired but come, this is the way."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
