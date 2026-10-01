@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When you advise any person you should be guided by the fear of God."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"It Is A Mistake To Look Too Far Ahead. Only One Link Of The Chain Of Destiny Can Be Handled At A Time."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
