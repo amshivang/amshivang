@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"It Is A Mistake To Look Too Far Ahead. Only One Link Of The Chain Of Destiny Can Be Handled At A Time."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"The Cautious Seldom Err."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
