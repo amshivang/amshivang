@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Cautious Seldom Err."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"No One Would Choose A Friendless Existence On Condition Of Having All The Other Things In The World."</em> — <strong>Aristotle</strong></p>
 <!-- QUOTE_END -->
 
 ---
