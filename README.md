@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"At the end of my life, with just one breath left, if you come, I'll sit up and sing."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Stop learning. Start knowing."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
