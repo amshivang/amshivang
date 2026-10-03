@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Stop learning. Start knowing."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Achieving Life Is Not The Equivalent Of Avoiding Death."</em> — <strong>Ayn Rand</strong></p>
 <!-- QUOTE_END -->
 
 ---
