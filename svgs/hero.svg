@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#fe428e" />
+    </linearGradient>
+    <style>
+      .title { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 42px; font-weight: bold; fill: #00F0FF; text-anchor: middle; }
+      .subtitle { font-family: 'Courier New', Courier, monospace; font-size: 18px; fill: #f8d847; text-anchor: middle; }
+      .bg { fill: #0D1117; stroke: url(#grad); stroke-width: 2px; rx: 10px; }
+    </style>
+  </defs>
+  <rect class="bg" width="100%" height="100%" />
+  <text x="400" y="90" class="title">Hi, I'm Shivang Shukla</text>
+  <text x="400" y="140" class="subtitle">&gt; Cybersecurity | Digital Forensics | OSINT</text>
+</svg>
