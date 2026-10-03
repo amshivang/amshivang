@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"What regresses, never progresses."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"To Love is to reach God."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
