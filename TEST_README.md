@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- 🎬 HERO -->
-<img src="./svgs/hero.svg?v=1" alt="Hi, I'm Shivang Shukla" width="100%"/>
+<img src="./svgs/hero.svg?v=3" alt="Hi, I'm Shivang Shukla" width="100%"/>
 
 <br/><br/>
 
 <!-- 👩‍💻 WHOAMI -->
-<img src="./svgs/about.svg?v=1" alt="Who am I" width="100%"/>
+<img src="./svgs/about.svg?v=3" alt="Who am I" width="100%"/>
 
 <br/><br/>
 
