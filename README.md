@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Dream Of An Africa Which Is In Peace With Itself."</em> — <strong>Nelson Mandela</strong></p>
+<p align="center"><em>"What regresses, never progresses."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
