@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Whoever knocks persistently, ends by entering."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"In a competition of love we'll all share in the victory, no matter who comes first."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
