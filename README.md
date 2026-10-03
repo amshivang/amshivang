@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Love is to reach God."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Whoever knocks persistently, ends by entering."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
