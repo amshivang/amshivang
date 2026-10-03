@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Achieving Life Is Not The Equivalent Of Avoiding Death."</em> — <strong>Ayn Rand</strong></p>
+<p align="center"><em>"I Dream Of An Africa Which Is In Peace With Itself."</em> — <strong>Nelson Mandela</strong></p>
 <!-- QUOTE_END -->
 
 ---
