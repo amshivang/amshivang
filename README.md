@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Candle never Loses any of its Light while Lighting up another candle."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"A Well-Spent Day Brings Happy Sleep."</em> — <strong>Leonardo Da Vinci</strong></p>
 <!-- QUOTE_END -->
 
 ---
