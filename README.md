@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Dance, and make joyous the love around you. Dance, and your veils which hide the Light shall swirl in a heap at your feet."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"A Candle never Loses any of its Light while Lighting up another candle."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
