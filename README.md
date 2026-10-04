@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Man Is Still The Most Extraordinary Computer Of All."</em> — <strong>John F. Kennedy</strong></p>
+<p align="center"><em>"Dance, and make joyous the love around you. Dance, and your veils which hide the Light shall swirl in a heap at your feet."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
