@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There Is No Darkness But Ignorance."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"Man Is Still The Most Extraordinary Computer Of All."</em> — <strong>John F. Kennedy</strong></p>
 <!-- QUOTE_END -->
 
 ---
