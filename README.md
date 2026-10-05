@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Well-Spent Day Brings Happy Sleep."</em> — <strong>Leonardo Da Vinci</strong></p>
+<p align="center"><em>"That all you got, George?"</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
