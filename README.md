@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You see, God helps only people who work hard. That principle is very clear."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"You Cannot Escape The Responsibility Of Tomorrow By Evading It Today."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
