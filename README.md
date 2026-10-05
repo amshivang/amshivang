@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"That all you got, George?"</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"You see, God helps only people who work hard. That principle is very clear."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
