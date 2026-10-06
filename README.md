@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Tricks And Treachery Are The Practice Of Fools, That Don'T Have Brains Enough To Be Honest."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"Be like a flower that gives its fragrance even to the hand that crushed it."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
