@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Best Way To Get A Bad Law Repealed Is To Enforce It Strictly."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Tricks And Treachery Are The Practice Of Fools, That Don'T Have Brains Enough To Be Honest."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
