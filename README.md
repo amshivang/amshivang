@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Cannot Escape The Responsibility Of Tomorrow By Evading It Today."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"The Best Way To Get A Bad Law Repealed Is To Enforce It Strictly."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
