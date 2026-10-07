@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"All Great Achievements Require Time."</em> — <strong>Maya Angelou</strong></p>
+<p align="center"><em>"A Riot Is At Bottom The Language Of The Unheard."</em> — <strong>Martin Luther King, Jr.</strong></p>
 <!-- QUOTE_END -->
 
 ---
