@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Riot Is At Bottom The Language Of The Unheard."</em> — <strong>Martin Luther King, Jr.</strong></p>
+<p align="center"><em>"The truth was a mirror in the hands of God. It fell, and broke into pieces. Everybody took a piece of it, and they looked at it and thought they had the truth."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
