@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do not be an arrogant scholar, for scholarship cannot subsist with arrogance."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass."</em> — <strong>Muhammad Iqbal</strong></p>
 <!-- QUOTE_END -->
 
 ---
