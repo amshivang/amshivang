@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The truth was a mirror in the hands of God. It fell, and broke into pieces. Everybody took a piece of it, and they looked at it and thought they had the truth."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"The Ache For Home Lives In All Of Us, The Safe Place Where We Can Go As We Are And Not Be Questioned."</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
