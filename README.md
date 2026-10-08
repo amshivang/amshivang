@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Ache For Home Lives In All Of Us, The Safe Place Where We Can Go As We Are And Not Be Questioned."</em> — <strong>Maya Angelou</strong></p>
+<p align="center"><em>"He Who Learns But Does Not Think, Is Lost. He Who Thinks But Does Not Learn Is In Great Danger."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
