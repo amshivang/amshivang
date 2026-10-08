@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He Who Learns But Does Not Think, Is Lost. He Who Thinks But Does Not Learn Is In Great Danger."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"Be Happy In The Moment, That'S Enough. Each Moment Is All We Need, Not More."</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
