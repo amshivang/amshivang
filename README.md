@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be Happy In The Moment, That'S Enough. Each Moment Is All We Need, Not More."</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"Plants And Minerals Are Bound To Predestination. The Faithful Is Only Bound To The Divine Orders."</em> — <strong>Muhammad Iqbal</strong></p>
 <!-- QUOTE_END -->
 
 ---
