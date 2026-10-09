@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Plants And Minerals Are Bound To Predestination. The Faithful Is Only Bound To The Divine Orders."</em> — <strong>Muhammad Iqbal</strong></p>
+<p align="center"><em>"Don'T Let Schooling Interfere With Your Education."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
