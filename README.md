@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Don'T Let Schooling Interfere With Your Education."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"I'll tell you how I'd like to be remembered: As a black man who won the heavyweight title - Who has humorous and who never looked down on those who looked up to him - A man who stood for freedom, justice and equality - And I wouldn't even mind if folks forgot how pretty I was."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
