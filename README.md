@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Fear Is The Main Source Of Superstition, And One Of The Main Sources Of Cruelty. To Conquer Fear Is The Beginning Of Wisdom."</em> — <strong>Bertrand Russell</strong></p>
+<p align="center"><em>"Live everyday as if it were your last because someday you're going to be right."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
