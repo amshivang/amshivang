@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Can Be Changed By What Happens To Me. But I Refuse To Be Reduced By It."</em> — <strong>Maya Angelou</strong></p>
+<p align="center"><em>"The sin which makes you sad and repentant is more liked by Allah than the good deed which turns you arrogant."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
