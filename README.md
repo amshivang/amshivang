@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Women are not a garment you wear and undress however you like. They are honored and have their rights."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Be patient where you sit in the dark. The dawn is coming."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
