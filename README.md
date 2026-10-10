@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Live everyday as if it were your last because someday you're going to be right."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I Can Be Changed By What Happens To Me. But I Refuse To Be Reduced By It."</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
