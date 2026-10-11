@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We Make War That We May Live In Peace."</em> — <strong>Aristotle</strong></p>
+<p align="center"><em>"Get Your Facts First, Then You Can Distort Them As You Please."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
