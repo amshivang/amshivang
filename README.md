@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be patient where you sit in the dark. The dawn is coming."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"We Make War That We May Live In Peace."</em> — <strong>Aristotle</strong></p>
 <!-- QUOTE_END -->
 
 ---
