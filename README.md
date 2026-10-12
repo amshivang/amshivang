@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Went To The Bank And Proposed That They Lend Money To The Poor People. The Bankers Almost Fell Over."</em> — <strong>Muhammad Yunus</strong></p>
+<p align="center"><em>"Your worst enemy is hiding within yourself, and that enemy is your nafs or false ego."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
