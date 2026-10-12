@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The most helpless person is the one who is helpless in reforming himself."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"I Went To The Bank And Proposed That They Lend Money To The Poor People. The Bankers Almost Fell Over."</em> — <strong>Muhammad Yunus</strong></p>
 <!-- QUOTE_END -->
 
 ---
