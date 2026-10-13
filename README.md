@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Your worst enemy is hiding within yourself, and that enemy is your nafs or false ego."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Chains Of Habit Are Too Light To Be Felt Until They Are Too Heavy To Be Broken."</em> — <strong>Warren Buffett</strong></p>
 <!-- QUOTE_END -->
 
 ---
