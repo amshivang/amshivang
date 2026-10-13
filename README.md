@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Will To Win, The Desire To Succeed, The Urge To Reach Your Full Potential... These Are The Keys That Will Unlock The Door To Personal Excellence."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"Behind All Their Personal Vanity, Women Themselves Always Have An Impersonal Contempt For Woman."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
