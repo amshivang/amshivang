@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Give up to grace. The ocean takes care of each wave 'til it gets to shore. You need more help than you know."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"The Will To Win, The Desire To Succeed, The Urge To Reach Your Full Potential... These Are The Keys That Will Unlock The Door To Personal Excellence."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
