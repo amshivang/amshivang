@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The word of God is the medicine of the heart."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"All The Great Things Are Simple, And Many Can Be Expressed In A Single Word: Freedom, Justice, Honor, Duty, Mercy, Hope."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
