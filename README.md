@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"All The Great Things Are Simple, And Many Can Be Expressed In A Single Word: Freedom, Justice, Honor, Duty, Mercy, Hope."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
 <!-- QUOTE_END -->
 
 ---
