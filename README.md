@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Things Should Be Made As Simple As Possible, But Not Any Simpler."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"The word of God is the medicine of the heart."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
