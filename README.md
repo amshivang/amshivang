@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Fix the cause, not the symptom."</em> — <strong>Steve Maguire</strong></p>
+<p align="center"><em>"I Wish They Would Only Take Me As I Am."</em> — <strong>Vincent Van Gogh</strong></p>
 <!-- QUOTE_END -->
 
 ---
