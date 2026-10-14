@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Behind All Their Personal Vanity, Women Themselves Always Have An Impersonal Contempt For Woman."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"Things Should Be Made As Simple As Possible, But Not Any Simpler."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
