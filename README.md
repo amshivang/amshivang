@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I want to sing like the birds sing, not worrying about who hears or what they think."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Wherever You Go, Go With All Your Heart."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
