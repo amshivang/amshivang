@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"My way of joking is to tell the truth. That's the funniest joke in the world."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I Will Prepare And Some Day My Chance Will Come."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
