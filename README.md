@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Wherever You Go, Go With All Your Heart."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"Suit The Action To The Word, The Word To The Action."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
