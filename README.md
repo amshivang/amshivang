@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Suit The Action To The Word, The Word To The Action."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"I was the first one in the gym, and the last one to leave."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
