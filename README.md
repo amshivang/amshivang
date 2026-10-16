@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"My health is in the hands of Allah, who has ways of testing us. Whatever happens, happens. I a'int the greatest - it's Allah. I gave myself a job. I work for God."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The wiser a man is, the less talkative will he be."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
