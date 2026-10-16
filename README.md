@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To be a great champion you must believe you are the best. If you're not, pretend you are."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Money Demands That You Sell, Not Your Weakness To Men'S Stupidity, But Your Talent To Their Reason."</em> — <strong>Ayn Rand</strong></p>
 <!-- QUOTE_END -->
 
 ---
