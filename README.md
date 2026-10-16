@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The wiser a man is, the less talkative will he be."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"To be a great champion you must believe you are the best. If you're not, pretend you are."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
