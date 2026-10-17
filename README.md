@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Woman Was God'S Second Mistake."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"If you are greeted then return the greetings more warmly. If you are favored, then repay the obligation manifold; but he who takes the initiative will always excel in merit."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
