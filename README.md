@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Dream, Dream Dream Dreams transform into thoughts And thoughts result in action."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Live everyday as if it were your last because someday you're going to be right."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
