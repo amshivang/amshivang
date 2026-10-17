@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Live everyday as if it were your last because someday you're going to be right."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Faith Is Taking The First Step Even When You Don'T See The Whole Staircase."</em> — <strong>Martin Luther King  Jr.</strong></p>
 <!-- QUOTE_END -->
 
 ---
