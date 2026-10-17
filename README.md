@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Want To Know All Gods Thoughts; All The Rest Are Just Details."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"The Good Life Is One Inspired By Love And Guided By Knowledge."</em> — <strong>Bertrand Russell</strong></p>
 <!-- QUOTE_END -->
 
 ---
