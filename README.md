@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Let yourself be silently drawn by the stronger pull of what you really love. In the depths there is a spring with all the water your heart is thirsty for."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
