@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"I Am The Astronaut Of Boxing. Joe Louis And Dempsey Were Just Jet Pilots. I'M In A World Of My Own."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
