@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Faith Is Taking The First Step Even When You Don'T See The Whole Staircase."</em> — <strong>Martin Luther King  Jr.</strong></p>
+<p align="center"><em>"Morality Is The Herd-Instinct In The Individual."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
