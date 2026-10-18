@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will."</em> — <strong>Zig Ziglar</strong></p>
+<p align="center"><em>"Let yourself be silently drawn by the stronger pull of what you really love. In the depths there is a spring with all the water your heart is thirsty for."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
