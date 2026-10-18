@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Morality Is The Herd-Instinct In The Individual."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"Greed is permanent slavery."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
