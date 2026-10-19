@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If all you can do is crawl, start crawling."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Make Everything As Simple As Possible, But Not Simpler."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
