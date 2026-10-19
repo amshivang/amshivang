@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Money and riches don't mean nothing to me. I don't care nothing about being no rich individual. I'm not living for glory or for fame; all this is doomed for destruction. You got it today, tomorrow it's gone. I got bigger things on my mind than that. I got Islam on my mind."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Let Blockheads Read What Blockheads Wrote."</em> — <strong>Warren Buffett</strong></p>
 <!-- QUOTE_END -->
 
 ---
