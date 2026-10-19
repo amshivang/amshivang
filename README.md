@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Make Everything As Simple As Possible, But Not Simpler."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Civilization Is The Limitless Multiplication Of Unnecessary Necessities."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
