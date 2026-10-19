@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Let Blockheads Read What Blockheads Wrote."</em> — <strong>Warren Buffett</strong></p>
+<p align="center"><em>"Buy The Ticket, Take The Ride."</em> — <strong>Hunter S. Thompson</strong></p>
 <!-- QUOTE_END -->
 
 ---
