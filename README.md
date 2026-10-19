@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Buy The Ticket, Take The Ride."</em> — <strong>Hunter S. Thompson</strong></p>
+<p align="center"><em>"If all you can do is crawl, start crawling."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
