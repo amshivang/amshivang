@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Don't grieve. Anything you lose comes round in another form."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
