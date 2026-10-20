@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Civilization Is The Limitless Multiplication Of Unnecessary Necessities."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Things Won Are Done, Joy'S Soul Lies In The Doing."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
