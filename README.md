@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The greatest truth is honesty, and the greatest falsehood is dishonesty."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"We Are All Alike, On The Inside."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
