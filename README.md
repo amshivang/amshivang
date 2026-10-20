@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Things Won Are Done, Joy'S Soul Lies In The Doing."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"The greatest truth is honesty, and the greatest falsehood is dishonesty."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
