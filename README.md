@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We Are All Alike, On The Inside."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Don't grieve. Anything you lose comes round in another form."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
