@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Make Everything As Simple As Possible, But Not Simpler."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Only last week I murdered a rock, injured a stone and hospitalized a brick."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
