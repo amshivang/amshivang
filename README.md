@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"He Who Fears To Weep, Should Learn To Be Kind To Those Who Weep."</em> — <strong>Abu Bakr</strong></p>
 <!-- QUOTE_END -->
 
 ---
