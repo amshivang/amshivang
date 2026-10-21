@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He Who Fears To Weep, Should Learn To Be Kind To Those Who Weep."</em> — <strong>Abu Bakr</strong></p>
+<p align="center"><em>"Make Everything As Simple As Possible, But Not Simpler."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
