@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Only last week I murdered a rock, injured a stone and hospitalized a brick."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Do Not Be Embarrassed By Your Failures, Learn From Them And Start Again."</em> — <strong>Richard Branson</strong></p>
 <!-- QUOTE_END -->
 
 ---
