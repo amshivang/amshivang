@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do Not Be Embarrassed By Your Failures, Learn From Them And Start Again."</em> — <strong>Richard Branson</strong></p>
+<p align="center"><em>"He Who Angers You Conquers You."</em> — <strong>Elizabeth Kenny</strong></p>
 <!-- QUOTE_END -->
 
 ---
