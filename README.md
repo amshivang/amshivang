@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The greatest truth is honesty, and the greatest falsehood is dishonesty."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
