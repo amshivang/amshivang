@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Inside of a ring or out, ain't nothing wrong with going down. It's staying down that's wrong."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The greatest truth is honesty, and the greatest falsehood is dishonesty."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
