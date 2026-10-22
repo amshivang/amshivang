@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Spirituality is recognizing the divine light that is within us all. It doesn't belong to any particular religion; it belongs to everyone."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
