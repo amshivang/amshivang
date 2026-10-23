@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You show your worth by what you seek."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"A Thorough Knowledge Of The Bible Is Worth More Than A College Education."</em> — <strong>Theodore Roosevelt</strong></p>
 <!-- QUOTE_END -->
 
 ---
