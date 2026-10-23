@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If You Would Have A Faithful Servant, And One That You Like, Serve Yourself."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"You show your worth by what you seek."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
