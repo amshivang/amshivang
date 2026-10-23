@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Thorough Knowledge Of The Bible Is Worth More Than A College Education."</em> — <strong>Theodore Roosevelt</strong></p>
+<p align="center"><em>"Spirituality is recognizing the divine light that is within us all. It doesn't belong to any particular religion; it belongs to everyone."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
