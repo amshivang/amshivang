@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Beautiful people are not always good, but good people are always beautiful."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"If You Would Have A Faithful Servant, And One That You Like, Serve Yourself."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
