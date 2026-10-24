@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Kindness Is The Language Which The Deaf Can Hear And The Blind Can See."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
