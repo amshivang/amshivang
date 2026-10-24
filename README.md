@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Spirituality is recognizing the divine light that is within us all. It doesn't belong to any particular religion; it belongs to everyone."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Kindness Is The Language Which The Deaf Can Hear And The Blind Can See."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
