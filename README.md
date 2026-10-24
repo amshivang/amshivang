@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Allah loves moderation and hates extravagance and excess."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Gratitude is the wine for the soul. Go on. Get drunk."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
