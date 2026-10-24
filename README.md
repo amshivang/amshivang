@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"We are a people whom Allah gave might and glory to through Islam, so we will never seek glory through anything else."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
