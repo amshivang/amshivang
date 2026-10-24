@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Behind All Their Personal Vanity, Women Themselves Always Have An Impersonal Contempt For Woman."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"One Does Not Leave A Convivial Party Before Closing Time."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
