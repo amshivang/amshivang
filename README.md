@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Gratitude is the wine for the soul. Go on. Get drunk."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Behind All Their Personal Vanity, Women Themselves Always Have An Impersonal Contempt For Woman."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
