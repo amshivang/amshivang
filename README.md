@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech."</em> — <strong>Benjamin Franklin</strong></p>
+<p align="center"><em>"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
