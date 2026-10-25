@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"One Does Not Leave A Convivial Party Before Closing Time."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"You Cannot Create Experience. You Must Undergo It."</em> — <strong>Albert Camus</strong></p>
 <!-- QUOTE_END -->
 
 ---
