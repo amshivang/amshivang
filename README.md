@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You Cannot Create Experience. You Must Undergo It."</em> — <strong>Albert Camus</strong></p>
+<p align="center"><em>"Allah's the Arabic term for God. Stand up for God, fight for God, work for God and do the right thing, and go the right way, things will end up in your corner."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
