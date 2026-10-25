@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Nothing hurts a good soul and kind heart more than to live amongst people who can't understand it."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech."</em> — <strong>Benjamin Franklin</strong></p>
 <!-- QUOTE_END -->
 
 ---
