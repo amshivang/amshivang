@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"The Christian Resolution To Find The World Ugly And Bad Has Made The World Ugly And Bad."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
