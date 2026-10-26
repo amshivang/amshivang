@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Criminal Is Trying To Solve His Immediate Problems."</em> — <strong>Naguib Mahfouz</strong></p>
+<p align="center"><em>"Renouncing the worldly pleasures is a comfort for both the human heart and body."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
