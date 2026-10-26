@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Christian Resolution To Find The World Ugly And Bad Has Made The World Ugly And Bad."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"The Criminal Is Trying To Solve His Immediate Problems."</em> — <strong>Naguib Mahfouz</strong></p>
 <!-- QUOTE_END -->
 
 ---
