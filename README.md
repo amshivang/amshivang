@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Renouncing the worldly pleasures is a comfort for both the human heart and body."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Why Shouldn'T Truth Be Stranger Than Fiction? Fiction, After All, Has To Make Sense."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
