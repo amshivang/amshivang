@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When I Do Good, I Feel Good. When I Do Bad, I Feel Bad. That'S My Religion."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Geologists Have A Saying - Rocks Remember."</em> — <strong>Neil Armstrong</strong></p>
 <!-- QUOTE_END -->
 
 ---
