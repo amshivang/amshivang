@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Success Depends Upon Previous Preparation, And Without Such Preparation There Is Sure To Be Failure."</em> — <strong>Confucius</strong></p>
+<p align="center"><em>"Ah, Mon Cher, For Anyone Who Is Alone, Without God And Without A Master, The Weight Of Days Is Dreadful."</em> — <strong>Albert Camus</strong></p>
 <!-- QUOTE_END -->
 
 ---
