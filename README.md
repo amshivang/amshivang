@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Geologists Have A Saying - Rocks Remember."</em> — <strong>Neil Armstrong</strong></p>
+<p align="center"><em>"Success Depends Upon Previous Preparation, And Without Such Preparation There Is Sure To Be Failure."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
