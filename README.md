@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When you feel a peaceful joy, that's when you are near truth."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"When I Do Good, I Feel Good. When I Do Bad, I Feel Bad. That'S My Religion."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
