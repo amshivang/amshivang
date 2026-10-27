@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"There is no rest for the person who has envy, and there is no love for the person who has bad manners."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"When you feel a peaceful joy, that's when you are near truth."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
