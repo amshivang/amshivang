@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Two Most Important Days In Your Life Are The Day You Are Born And The Day You Find Out Why."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"There are so many highly esteemed ones who became miserable and humiliated just because of their bad temper and morals; and humble people who have attained eminence and the highest honors because of good temper and morals."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
