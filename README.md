@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Give Thanks In Solitude Is Enough. Thanksgiving Has Wings And Goes Where It Must Go. Your Prayer Knows Much More About It Than You Do."</em> — <strong>Victor Hugo</strong></p>
+<p align="center"><em>"Fasting is the first principle of medicine; fast and see the strength of the spirit reveal itself."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
