@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Ah, Mon Cher, For Anyone Who Is Alone, Without God And Without A Master, The Weight Of Days Is Dreadful."</em> — <strong>Albert Camus</strong></p>
+<p align="center"><em>"The Two Most Important Days In Your Life Are The Day You Are Born And The Day You Find Out Why."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
