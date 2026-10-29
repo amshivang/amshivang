@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Whoever Is Happy Will Make Others Happy Too."</em> — <strong>Anne Frank</strong></p>
+<p align="center"><em>"I Believe That Every Person Is Born With Talent."</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
