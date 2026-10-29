@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Design Is Not Just What It Looks Like And Feels Like. Design Is How It Works."</em> — <strong>Steve Jobs</strong></p>
+<p align="center"><em>"The Best Way To Find Out If You Can Trust Somebody Is To Trust Them."</em> — <strong>Ernest Hemingway</strong></p>
 <!-- QUOTE_END -->
 
 ---
