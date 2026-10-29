@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Believe That Every Person Is Born With Talent."</em> — <strong>Maya Angelou</strong></p>
+<p align="center"><em>"Design Is Not Just What It Looks Like And Feels Like. Design Is How It Works."</em> — <strong>Steve Jobs</strong></p>
 <!-- QUOTE_END -->
 
 ---
