@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Fasting is the first principle of medicine; fast and see the strength of the spirit reveal itself."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Whoever Is Happy Will Make Others Happy Too."</em> — <strong>Anne Frank</strong></p>
 <!-- QUOTE_END -->
 
 ---
