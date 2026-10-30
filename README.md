@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Only Two Things Are Infinite, The Universe And Human Stupidity, And I'M Not Sure About The Former."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
