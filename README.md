@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Only Two Things Are Infinite, The Universe And Human Stupidity, And I'M Not Sure About The Former."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"What you seek is seeking you."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
