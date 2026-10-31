@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Paintings Have A Life Of Their Own That Derives From The Painter'S Soul."</em> — <strong>Vincent Van Gogh</strong></p>
+<p align="center"><em>"The Educated Southerner Has No Use For An 'R', Except At The Beginning Of A Word."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
