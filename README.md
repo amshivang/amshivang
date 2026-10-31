@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Get up sucker and fight. Get up and fight."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder."</em> — <strong>Salma Hayek</strong></p>
 <!-- QUOTE_END -->
 
 ---
