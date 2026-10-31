@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are."</em> — <strong>J. K. Rowling</strong></p>
+<p align="center"><em>"Get up sucker and fight. Get up and fight."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
