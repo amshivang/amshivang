@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The Educated Southerner Has No Use For An 'R', Except At The Beginning Of A Word."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"When One Has Not Had A Good Father, One Must Create One."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
