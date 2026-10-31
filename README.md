@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder."</em> — <strong>Salma Hayek</strong></p>
+<p align="center"><em>"Paintings Have A Life Of Their Own That Derives From The Painter'S Soul."</em> — <strong>Vincent Van Gogh</strong></p>
 <!-- QUOTE_END -->
 
 ---
