@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When One Has Not Had A Good Father, One Must Create One."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
