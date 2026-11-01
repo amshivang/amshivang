@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day."</em> — <strong>Friedrich Nietzsche</strong></p>
+<p align="center"><em>"Be active! Take on responsibility! Work for the things you believe in. If you do not, you are surrendering your fate to others."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
