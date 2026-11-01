@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Avoid Popularity If You Would Have Peace."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"Nature Hath Framed Strange Fellows In Her Time."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
