@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be active! Take on responsibility! Work for the things you believe in. If you do not, you are surrendering your fate to others."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Avoid Popularity If You Would Have Peace."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
