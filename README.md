@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The criterion of action is that todays work should not be deferred till the following day."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"Often It Does Seem A Pity That Noah And His Party Did Not Miss The Boat."</em> — <strong>Mark Twain</strong></p>
 <!-- QUOTE_END -->
 
 ---
