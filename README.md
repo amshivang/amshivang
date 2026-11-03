@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Often It Does Seem A Pity That Noah And His Party Did Not Miss The Boat."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"I'Ve Learned That People Will Forget What You Said, People Will Forget What You Did, But People Will Never Forget How You Made Them Feel."</em> — <strong>Maya Angelou</strong></p>
 <!-- QUOTE_END -->
 
 ---
