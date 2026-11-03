@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Intellectuals Solve Problems, Geniuses Prevent Them."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"It'S Better To Be A Lion For A Day Than A Sheep All Your Life."</em> — <strong>Elizabeth Kenny</strong></p>
 <!-- QUOTE_END -->
 
 ---
