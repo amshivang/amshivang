@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do not be deceived by a man's eloquence; rather whoever fulfils trusts and refrains from impugning people's honour is a real man."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"A Well-Spent Day Brings Happy Sleep."</em> — <strong>Leonardo Da Vinci</strong></p>
 <!-- QUOTE_END -->
 
 ---
