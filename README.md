@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be patient where you sit in the dark. The dawn is coming."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"One who is mild rather than forceful has greater capacity for outreach."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
