@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Well-Spent Day Brings Happy Sleep."</em> — <strong>Leonardo Da Vinci</strong></p>
+<p align="center"><em>"Be patient where you sit in the dark. The dawn is coming."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
