@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"It'S Better To Be A Lion For A Day Than A Sheep All Your Life."</em> — <strong>Elizabeth Kenny</strong></p>
+<p align="center"><em>"Do not be deceived by a man's eloquence; rather whoever fulfils trusts and refrains from impugning people's honour is a real man."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
