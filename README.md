@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Last night I had a dream. When I got to Africa, I had one hell of a rumble. I had to beat Tarzan's behind first, for claiming to be King of the Jungle."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"I Went To The Bank And Proposed That They Lend Money To The Poor People. The Bankers Almost Fell Over."</em> — <strong>Muhammad Yunus</strong></p>
 <!-- QUOTE_END -->
 
 ---
