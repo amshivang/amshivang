@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"One who is mild rather than forceful has greater capacity for outreach."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Last night I had a dream. When I got to Africa, I had one hell of a rumble. I had to beat Tarzan's behind first, for claiming to be King of the Jungle."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
