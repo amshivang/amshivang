@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Went To The Bank And Proposed That They Lend Money To The Poor People. The Bankers Almost Fell Over."</em> — <strong>Muhammad Yunus</strong></p>
+<p align="center"><em>"Reality Is Merely An Illusion, Albeit A Very Persistent One."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
