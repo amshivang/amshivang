@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He Who Avoids Complaint Invites Happiness."</em> — <strong>Abu Bakr</strong></p>
+<p align="center"><em>"Heart be brave. If you cannot be brave, just go. Love's glory is not a small thing."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
