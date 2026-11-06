@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Reality Is Merely An Illusion, Albeit A Very Persistent One."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Set your life on fire. Seek those who fan your flames."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
