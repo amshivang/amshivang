@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Set your life on fire. Seek those who fan your flames."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"He who becomes a Muslim does so in his own interest."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
