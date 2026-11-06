@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He who becomes a Muslim does so in his own interest."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"He Who Avoids Complaint Invites Happiness."</em> — <strong>Abu Bakr</strong></p>
 <!-- QUOTE_END -->
 
 ---
