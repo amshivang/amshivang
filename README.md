@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The highest person is he who is of most use to humankind."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"I'm young, I'm handsome, I'm fast, I'm pretty, and can't possibly be beat. They must fall in the round I call."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
