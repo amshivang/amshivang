@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Civilization Is The Limitless Multiplication Of Unnecessary Necessities."</em> — <strong>Mark Twain</strong></p>
+<p align="center"><em>"The highest person is he who is of most use to humankind."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
