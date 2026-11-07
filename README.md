@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Heart be brave. If you cannot be brave, just go. Love's glory is not a small thing."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"The time has come to turn your heart into a temple of fire. Your essence is gold hidden in dust. To reveal its splendor you need to burn in the fire of love."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
