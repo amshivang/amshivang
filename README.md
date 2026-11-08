@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Avoidance of sin is lighter than the pain of remorse."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"A Well-Spent Day Brings Happy Sleep."</em> — <strong>Leonardo Da Vinci</strong></p>
 <!-- QUOTE_END -->
 
 ---
