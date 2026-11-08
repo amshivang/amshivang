@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I'm young, I'm handsome, I'm fast, I'm pretty, and can't possibly be beat. They must fall in the round I call."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Never Do Anything Against Conscience Even If The State Demands It."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
