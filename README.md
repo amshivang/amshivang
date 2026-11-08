@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Never Do Anything Against Conscience Even If The State Demands It."</em> — <strong>Albert Einstein</strong></p>
+<p align="center"><em>"Avoidance of sin is lighter than the pain of remorse."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
