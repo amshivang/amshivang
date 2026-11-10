@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Our Prime Purpose In This Life Is To Help Others. And If You Can'T Help Them, At Least Don'T Hurt Them."</em> — <strong>Dalai Lama</strong></p>
+<p align="center"><em>"One Does Not Leave A Convivial Party Before Closing Time."</em> — <strong>Winston Churchill</strong></p>
 <!-- QUOTE_END -->
 
 ---
