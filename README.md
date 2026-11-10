@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Even the greatest was once a beginner. Don't be afraid to take that first step."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"When you see that any scholar loves the world, then his scholarship is in doubt."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
