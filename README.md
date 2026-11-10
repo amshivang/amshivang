@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"One Does Not Leave A Convivial Party Before Closing Time."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"Even the greatest was once a beginner. Don't be afraid to take that first step."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
