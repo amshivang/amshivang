@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Greed makes man blind and foolish, and makes him an easy prey for death."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"I'm going to show you how great I am!"</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
