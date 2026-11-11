@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I'm going to show you how great I am!"</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The bird is powered by its own life and by its motivation."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
