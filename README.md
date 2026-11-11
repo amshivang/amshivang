@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The government, whether state or central, is elected. That means we have a responsibility to elect the right kind of leaders."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Greed makes man blind and foolish, and makes him an easy prey for death."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
