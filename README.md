@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The bird is powered by its own life and by its motivation."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Do not overeat; that invites disease."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
