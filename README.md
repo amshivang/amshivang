@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Think Of All The Beauty Still Left Around You And Be Happy."</em> — <strong>Anne Frank</strong></p>
+<p align="center"><em>"For me, there are two types of people: the young and the experienced."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
