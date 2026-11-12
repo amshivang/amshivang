@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Be motivated like the falcon, hunt gloriously. Be magnificent as the leopard, fight to win. Spend less time with nightingales and peacocks. One is all talk, the other only color."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Think Of All The Beauty Still Left Around You And Be Happy."</em> — <strong>Anne Frank</strong></p>
 <!-- QUOTE_END -->
 
 ---
