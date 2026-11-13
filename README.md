@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"An alert and learned man will take advice from any event."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"Yesterday Is Gone. Tomorrow Has Not Yet Come. We Have Only Today. Let Us Begin."</em> — <strong>Mother Teresa</strong></p>
 <!-- QUOTE_END -->
 
 ---
