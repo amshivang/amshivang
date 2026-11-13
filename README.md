@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"For me, there are two types of people: the young and the experienced."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"No wealth like education and no poverty like ignorance."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
