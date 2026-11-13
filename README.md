@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"No wealth like education and no poverty like ignorance."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"An alert and learned man will take advice from any event."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
