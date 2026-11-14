@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He who is not impressed by sound advice, lacks faith."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It."</em> — <strong>David Brinkley</strong></p>
 <!-- QUOTE_END -->
 
 ---
