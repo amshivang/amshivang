@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"I Like My Wine Like My Women - Ready To Pass Out."</em> — <strong>Robin Williams</strong></p>
 <!-- QUOTE_END -->
 
 ---
