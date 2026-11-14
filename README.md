@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Yesterday Is Gone. Tomorrow Has Not Yet Come. We Have Only Today. Let Us Begin."</em> — <strong>Mother Teresa</strong></p>
+<p align="center"><em>"He who is not impressed by sound advice, lacks faith."</em> — <strong>Abu Bakr (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
