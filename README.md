@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It."</em> — <strong>David Brinkley</strong></p>
+<p align="center"><em>"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
