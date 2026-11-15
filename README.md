@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Like My Wine Like My Women - Ready To Pass Out."</em> — <strong>Robin Williams</strong></p>
+<p align="center"><em>"Do You Think God Gets Stoned? I Think So... Look At The Platypus."</em> — <strong>Robin Williams</strong></p>
 <!-- QUOTE_END -->
 
 ---
