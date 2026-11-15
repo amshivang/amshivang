@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Do You Think God Gets Stoned? I Think So... Look At The Platypus."</em> — <strong>Robin Williams</strong></p>
+<p align="center"><em>"A Man Should Never Neglect His Family For Business."</em> — <strong>Walt Disney</strong></p>
 <!-- QUOTE_END -->
 
 ---
