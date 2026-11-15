@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Man Should Never Neglect His Family For Business."</em> — <strong>Walt Disney</strong></p>
+<p align="center"><em>"What counts in the ring is what you can do after you're exhausted. The same is true of life."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
