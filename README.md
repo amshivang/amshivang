@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"What counts in the ring is what you can do after you're exhausted. The same is true of life."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"The Superior Man Acts Before He Speaks, And Afterwards Speaks According To His Action."</em> — <strong>Confucius</strong></p>
 <!-- QUOTE_END -->
 
 ---
