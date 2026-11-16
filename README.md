@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words."</em> — <strong>William Shakespeare</strong></p>
+<p align="center"><em>"It'S Not What You'Ve Got, It'S What You Use That Makes A Difference."</em> — <strong>Zig Ziglar</strong></p>
 <!-- QUOTE_END -->
 
 ---
