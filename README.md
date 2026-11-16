@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be."</em> — <strong>Zig Ziglar</strong></p>
+<p align="center"><em>"As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
