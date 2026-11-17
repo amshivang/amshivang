@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The lamps are different, but the Light is the same. One matter, one energy, one Light, one Light-mind, endlessly emanating all things."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"People are of two types, they are either your brothers in faith or your equals in humanity."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
