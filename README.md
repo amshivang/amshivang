@@ -70,12 +70,6 @@ All repositories in this portfolio adhere to strict standards of **offline priva
   <img src="activity-graph/activity-graph.svg?v=2" alt="Shivang's Contribution Chart" width="98%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.vercel.app/?user=amshivang&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 <!-- QUOTE_START -->
