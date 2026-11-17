@@ -16,7 +16,6 @@
 <h1 align="center">Shivang Shukla</h1>
 
 ### Cybersecurity Scholar | Digital Forensics & Threat Intelligence | Systems & Security Engineer
-#### Uttar Pradesh State Institute of Forensic Sciences (UPSIFS), Lucknow
 
 <p align="center">
   <a href="https://github.com/amshivang">
