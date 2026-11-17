@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"If my mind can conceive it, and my heart can believe it, then I can achieve it."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"A Fool can become a Genius when he understands he is a Fool but. A Genius can become a Fool when he understands he is a Genius."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
