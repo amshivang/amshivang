@@ -58,7 +58,7 @@
 <br>
 
 <!-- QUOTE_START -->
-<p align="center"><em>"It'S Not What You'Ve Got, It'S What You Use That Makes A Difference."</em> — <strong>Zig Ziglar</strong></p>
+<p align="center"><em>"If my mind can conceive it, and my heart can believe it, then I can achieve it."</em> — <strong>Muhammad Ali</strong></p>
 <!-- QUOTE_END -->
 
 ---
