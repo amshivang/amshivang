@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"People are of two types, they are either your brothers in faith or your equals in humanity."</em> — <strong>Ali ibn Abi Talib (R.A)</strong></p>
+<p align="center"><em>"You may learn to imitate a birdcall, but do you experience what the nightingale feels for the rose?"</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
