@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"You may learn to imitate a birdcall, but do you experience what the nightingale feels for the rose?"</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"Let not your love become attachment, nor your hate become destruction."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
 <!-- QUOTE_END -->
 
 ---
