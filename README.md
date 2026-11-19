@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Nations consist of people. And with their effort, a nation can accomplish all it could ever want."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"It Is Better To Remain Silent And Be Thought A Fool Than To Open One'S Mouth And Remove All Doubt."</em> — <strong>Abraham Lincoln</strong></p>
 <!-- QUOTE_END -->
 
 ---
