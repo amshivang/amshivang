@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"The only lasting beauty is the beauty of the heart."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"It Is Always Consoling To Think Of Suicide: In That Way One Gets Through Many A Bad Night."</em> — <strong>Friedrich Nietzsche</strong></p>
 <!-- QUOTE_END -->
 
 ---
