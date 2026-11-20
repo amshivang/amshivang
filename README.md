@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Jaw-Jaw Is Always Better Than To War-War."</em> — <strong>Winston Churchill</strong></p>
+<p align="center"><em>"A Man Who Won'T Die For Something Is Not Fit To Live."</em> — <strong>Martin Luther King, Jr.</strong></p>
 <!-- QUOTE_END -->
 
 ---
