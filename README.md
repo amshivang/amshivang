@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"A Man Who Won'T Die For Something Is Not Fit To Live."</em> — <strong>Martin Luther King, Jr.</strong></p>
+<p align="center"><em>"Life is a difficult game. You can win it only by retaining your birthright to be a person."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
