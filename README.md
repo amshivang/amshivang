@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"To Be Happy We Must Not Be Too Concerned With Others."</em> — <strong>Albert Camus</strong></p>
+<p align="center"><em>"We Must Believe That We Are Gifted For Something, And That This Thing, At Whatever Cost, Must Be Attained."</em> — <strong>Marie Curie</strong></p>
 <!-- QUOTE_END -->
 
 ---
