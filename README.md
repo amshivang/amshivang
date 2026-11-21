@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Life is a difficult game. You can win it only by retaining your birthright to be a person."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"To Be Happy We Must Not Be Too Concerned With Others."</em> — <strong>Albert Camus</strong></p>
 <!-- QUOTE_END -->
 
 ---
