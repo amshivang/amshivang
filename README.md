@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Risk Comes From Not Knowing What You'Re Doing."</em> — <strong>Warren Buffett</strong></p>
 <!-- QUOTE_END -->
 
 ---
