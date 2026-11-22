@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Risk Comes From Not Knowing What You'Re Doing."</em> — <strong>Warren Buffett</strong></p>
+<p align="center"><em>"India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system."</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
