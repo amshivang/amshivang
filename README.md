@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system."</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires."</em> — <strong>Bertrand Russell</strong></p>
 <!-- QUOTE_END -->
 
 ---
