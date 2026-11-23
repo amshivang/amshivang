@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Give Me Six Hours To Chop Down A Tree And I Will Spend The First Four Sharpening The Axe."</em> — <strong>Abraham Lincoln</strong></p>
+<p align="center"><em>"A Successful Man Is One Who Can Lay A Firm Foundation With The Bricks Others Have Thrown At Him."</em> — <strong>David Brinkley</strong></p>
 <!-- QUOTE_END -->
 
 ---
