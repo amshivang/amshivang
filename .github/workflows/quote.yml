@@ -2,11 +2,15 @@ name: Update Hourly Quote
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '15 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: readme-bot
+  cancel-in-progress: false
 
 jobs:
   update-quote:
@@ -23,7 +27,7 @@ jobs:
       - name: Fetch and Update Quote
         run: |
           python -c "
-          import random, urllib.request, json, re
+          import html, random, urllib.request, json, re
 
           quotes = [
               (\"Talk is cheap. Show me the code.\", \"Linus Torvalds\"),
@@ -44,19 +48,21 @@ jobs:
               req = urllib.request.Request('https://dummyjson.com/quotes/random', headers={'User-Agent': 'Mozilla/5.0'})
               with urllib.request.urlopen(req, timeout=5) as response:
                   data = json.loads(response.read().decode())
-                  if 'quote' in data and 'author' in data:
+                  if isinstance(data.get('quote'), str) and isinstance(data.get('author'), str):
                       quote_text = data['quote']
                       quote_author = data['author']
           except Exception:
               pass
 
-          quote_block = f'<!-- QUOTE_START -->\n<p align=\"center\"><em>\"{quote_text}\"</em> — <strong>{quote_author}</strong></p>\n<!-- QUOTE_END -->'
+          safe_quote = html.escape(quote_text)
+          safe_author = html.escape(quote_author)
+          quote_block = f'<!-- QUOTE_START -->\n<p align=\"center\"><em>\"{safe_quote}\"</em> — <strong>{safe_author}</strong></p>\n<!-- QUOTE_END -->'
 
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
 
           pattern = r'<!-- QUOTE_START -->.*?<!-- QUOTE_END -->'
-          new_content = re.sub(pattern, quote_block, content, flags=re.DOTALL)
+          new_content = re.sub(pattern, lambda _: quote_block, content, flags=re.DOTALL)
 
           with open('README.md', 'w', encoding='utf-8') as f:
               f.write(new_content)
