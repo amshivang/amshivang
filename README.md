@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say."</em> — <strong>Umar ibn Al-Khattāb (R.A)</strong></p>
+<p align="center"><em>"When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
