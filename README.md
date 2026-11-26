@@ -88,7 +88,7 @@ Merged pull requests to upstream open-source projects:
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"Silence is an ocean. Speech is a river. When the ocean is searching for you, don&#x27;t walk into the river. Listen to the ocean."</em> — <strong>Rumi</strong></p>
+<p align="center"><em>"We must think and act like a nation of a billion people and not like that of a million people. Dream, dream, dream!"</em> — <strong>Abdul Kalam</strong></p>
 <!-- QUOTE_END -->
 
 ---
