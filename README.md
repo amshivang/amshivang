@@ -77,7 +77,7 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"He who fears to weep, should learn to be kind to those who weep."</em> — <strong>Abu Bakr (R.A)</strong></p>
+<p align="center"><em>"Silence is an ocean. Speech is a river. When the ocean is searching for you, don&#x27;t walk into the river. Listen to the ocean."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
 
 ---
