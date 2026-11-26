@@ -76,6 +76,17 @@ All repositories in this portfolio adhere to strict standards of **offline priva
 
 ---
 
+## 🌐 Open Source Contributions
+
+Merged pull requests to upstream open-source projects:
+
+| Project | Contribution | Status |
+| :--- | :--- | :---: |
+| [**CTFd**](https://github.com/CTFd/CTFd) | [Add `.ruff_cache` to `.dockerignore` (#3163)](https://github.com/CTFd/CTFd/pull/3163) | ✅ Merged |
+| [**CrossGL**](https://github.com/CrossGL/crosstl) | [Lower integer geometric builtins through float in CUDA and HIP (#5119)](https://github.com/CrossGL/crosstl/pull/5119) | ✅ Merged |
+
+---
+
 <!-- QUOTE_START -->
 <p align="center"><em>"Silence is an ocean. Speech is a river. When the ocean is searching for you, don&#x27;t walk into the river. Listen to the ocean."</em> — <strong>Rumi</strong></p>
 <!-- QUOTE_END -->
