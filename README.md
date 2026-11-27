@@ -88,7 +88,7 @@ Merged pull requests to upstream open-source projects:
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I&#x27;ll tell you how I&#x27;d like to be remembered: As a black man who won the heavyweight title - Who has humorous and who never looked down on those who looked up to him - A man who stood for freedom, justice and equality - And I wouldn&#x27;t even mind if folks forgot how pretty I was."</em> — <strong>Muhammad Ali</strong></p>
+<p align="center"><em>"Music Expresses That Which Cannot Be Put Into Words."</em> — <strong>Victor Hugo</strong></p>
 <!-- QUOTE_END -->
 
 ---
