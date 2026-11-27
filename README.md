@@ -88,7 +88,7 @@ Merged pull requests to upstream open-source projects:
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"We must think and act like a nation of a billion people and not like that of a million people. Dream, dream, dream!"</em> — <strong>Abdul Kalam</strong></p>
+<p align="center"><em>"Education Is What Remains After One Has Forgotten What One Has Learned In School."</em> — <strong>Albert Einstein</strong></p>
 <!-- QUOTE_END -->
 
 ---
