@@ -88,7 +88,7 @@ Merged pull requests to upstream open-source projects:
 ---
 
 <!-- QUOTE_START -->
-<p align="center"><em>"I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields."</em> — <strong>Willie Nelson</strong></p>
+<p align="center"><em>"Our Peace Shall Stand As Firm As Rocky Mountains."</em> — <strong>William Shakespeare</strong></p>
 <!-- QUOTE_END -->
 
 ---
